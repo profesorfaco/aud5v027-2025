@@ -23,16 +23,16 @@ Y el aporte al conocimiento de ciudadanías, comunidades y personas nos exige di
 3. Variables en la enacción de la visualización: posición, orientación, forma, tamaño, textura y color (matiz, saturación y luminosidad).
 
 4. Formatos, lenguajes y estándares para el diseño, prototipado e implementación de la visualización digital, dinámica e interactiva en línea
+  
+   4.1. CSV y JSON: Formatos de intercambio de datos
 
-4.1. CSV y JSON: Formatos de intercambio de datos
+   4.2. Aplicaciones para la exploración de datos y prototipado de visualizaciones (RAWGraphs, Gephi, Power BI, OpenAI, etc.)
 
-4.2. Aplicaciones para la exploración de datos y prototipado de visualizaciones (RAWGraphs, Gephi, Power BI, OpenAI, etc.)
+   4.3. SVG: Formato para la gráfica vectorial en línea
 
-4.3. SVG: Formato para la gráfica vectorial en línea
+   4.4. HTML y CSS: Dos lenguajes de descripción para las páginas web
 
-4.4. HTML y CSS: Dos lenguajes de descripción para las páginas web 
-
-4.5. JavaScript: Un lenguaje de programación de páginas web
+   4.5. JavaScript: Un lenguaje de programación de páginas web
 
 - - - - - - -
 
