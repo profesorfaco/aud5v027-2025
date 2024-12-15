@@ -1,4 +1,4 @@
-# Diseño y visualización de información - Visualidad y Medios - Diseño - Universidad de Chile
+# Diseño y visualización de información - Diseño mención Visual y Medios - Universidad de Chile
 
 Esta asignatura es 1 de 3 electivos troncales de la mención Visual y Medios. Su condición "Troncal" implica que los contenidos abordados en estas asignaturas se consideran esenciales y basales para el desarrollo profesional de un diseñador de la mención escogida.
 
