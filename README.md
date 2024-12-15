@@ -38,7 +38,9 @@ Y el aporte al conocimiento de ciudadanías, comunidades y personas nos exige di
 
 ### Clase a clase
 
-El curso de imparte los días martes, de 15:00 a 18:15 hrs. Las clases comienzan el 11 de marzo y terminar el 12 de junio.
+El curso de imparte los días martes, de 15:00 a 18:15 hrs. 
+
+El curso comienza el 11 de marzo y termina el 24 de junio de 2024.
 
 Clase 1 → 11 de marzo → presentación del curso e introducción a la historia y actualidad de la visualización de datos e información
 
