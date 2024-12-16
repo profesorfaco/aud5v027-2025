@@ -42,47 +42,52 @@ El curso de imparte los días martes, de 15:00 a 18:15 hrs.
 
 El curso comienza a las 15:00 hrs. del martes 11 de marzo y termina a las 18:15 hrs. del martes 24 de junio de 2025.
 
-Clase 1 → 11 de marzo → presentación del curso e introducción a la historia y actualidad de la visualización de datos e información
+Clase 1 → 11 de marzo → Presentación del curso e introducción a la historia y actualidad de la visualización de datos e información
 
-Clase 2 → 18 de marzo → presentación de hitos de historia y actualidad de la visualización de datos e información → **trabajo grupal, evaluación diagnóstica**
+Clase 2 → 18 de marzo → Presentación de hitos de historia y actualidad de la visualización de datos e información → **Trabajo grupal, evaluación diagnóstica**
 
-Clase 3 → 25 de marzo → metadatos, datos, información y conocimiento
+Clase 3 → 25 de marzo → Metadatos, datos, información y conocimiento
 
-Clase 4 → 8 de abril → presentación sobre conocimiento situado contra los sesgos y la desinformación → **trabajo grupal, evaluación sumativa**
+Clase 4 → 1 de abril → Presentación sobre conocimiento situado contra los sesgos y la desinformación → **Trabajo grupal, evaluación sumativa**
 
-Clase 5 → 15 de abril → Posición, orientación, forma, tamaño, textura y color (matiz, saturación y luminosidad).
+Clase 5 → 8 de abril → Posición, orientación, forma, tamaño, textura y color (matiz, saturación y luminosidad).
 
-Clase 6 → 22 de abril → Variables aplicadas → **trabajo individual, evaluación sumativa**
+Clase 6 → 15 de abril → Variables aplicadas → **Trabajo individual, evaluación sumativa**
 
-Clase 7 → 29 de abril → CSV y JSON: Formatos de intercambio de datos
+Clase 7 → 22 de abril → CSV y JSON
 
-Clase 8 → 6 de mayo → RAWGraphs: Aplicación para la exploración de datos y prototipado de visualizaciones
+Clase 8 → 29 de abril → RAWGraphs
 
-Clase 9 → 13 de mayo → De RAWGraphs a SVG, un formato para la gráfica vectorial en línea → **trabajo individual, evaluación sumativa**
+Clase 9 → 6 de mayo → De RAWGraphs a SVG
 
-Clase 10 → 20 de mayo → HTML y CSS: Dos lenguajes de descripción para las páginas web
+Clase 10 → 13 de mayo → De SVG a HTML → **Trabajo individual, evaluación sumativa**
 
-Clase 11 → 27 de mayo → JavaScript: Un lenguaje de programación de páginas web
+Sin clases → 20 de mayo → **Receso de actividades docentes (19 al 23 de mayo)**
 
-Clase 12 → 3 de junio → Desarrollo de trabajo final, clase 1 de 3 (intercambio y exploración de datos, y prototipado de visualizaciones) → **avance en trabajo individual, evaluación formativa**
+Clase 11 → 27 de mayo → HTML y CSS: Dos lenguajes de descripción
 
-Clase 13 → 10 de junio → Desarrollo de trabajo final, clase 2 de 3 (desarrollo de visualizaciones con HTML, CSS y SVG) → **avance en trabajo individual, evaluación formativa**
+Clase 12 → 3 de junio → JavaScript: Un lenguaje de programación
 
-Clase 14 → 17 de junio → Desarrollo de trabajo final, clase 3 de 3 (interactividad en la visualización con JavaScript) → **avance en trabajo individual, evaluación formativa**
+Clase 13 → 10 de junio → Desarrollo de trabajo final → **Avance en trabajo individual, evaluación formativa**
 
-Clase 15 → 24 de junio → Entrega final de tablero de información (*dashboards*) e infografía digital → **entrega de trabajo individual, evaluación sumativa**
+Clase 14 → 17 de junio → Desarrollo de trabajo final → **Semana de trabajo autónomo (14 al 20 de junio)**
+
+Clase 15 → 24 de junio → Desarrollo de trabajo final → **Entrega de trabajo individual, evaluación sumativa**
 
 - - - - 
 
 ### Calificaciones para el promedio final
 
-Clase 4 → 8 de abril → trabajo grupal → 20% de la nota final
+Clase 4 → 1 de abril → trabajo grupal → 20% de la nota final
 
-Clase 6 → 22 de abril → trabajo individual → 20% de la nota final
+Clase 6 → 15 de abril → trabajo individual → 20% de la nota final
 
-Clase 9 → 13 de mayo → trabajo individual → 20% de la nota final
+Clase 10 → 13 de mayo → trabajo individual → 20% de la nota final
 
 Clase 15 → 24 de junio → 40% de la nota final
+
+Este electivo troncal se aprueba con nota final igual o superior a 4.0 y asistencia igual o mayor al 75%.
+
 
 
 
