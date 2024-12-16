@@ -14,7 +14,7 @@ Pero, para asegurar el aporte al conocimiento de ciudadanías, comunidades y per
 
 - - - - - - -
 
-### Saberes y contenidos
+### Saberes y contenidos del electivo troncal
 
 1. Historia y actualidad de la visualización de datos e información
 
@@ -36,39 +36,53 @@ Pero, para asegurar el aporte al conocimiento de ciudadanías, comunidades y per
 
 - - - - - - -
 
-### Clase a clase
+### Clase a clase del primer semestre de 2025
 
 El curso de imparte los días martes, de 15:00 a 18:15 hrs. 
 
-El curso comienza el 11 de marzo y termina el 24 de junio de 2024.
+El curso comienza a las 15:00 hrs. del martes 11 de marzo y termina a las 18:15 hrs. del martes 24 de junio de 2025.
 
 Clase 1 → 11 de marzo → presentación del curso e introducción a la historia y actualidad de la visualización de datos e información
 
-Clase 2 → 18 de marzo → presentación de hitos de historia y actualidad de la visualización de datos e información → primera calificación 
+Clase 2 → 18 de marzo → presentación de hitos de historia y actualidad de la visualización de datos e información → **trabajo grupal, evaluación diagnóstica**
 
 Clase 3 → 25 de marzo → metadatos, datos, información y conocimiento
 
-Clase 4 → 8 de abril → conocimiento situado contra los sesgos y la desinformación
+Clase 4 → 8 de abril → presentación sobre conocimiento situado contra los sesgos y la desinformación → **trabajo grupal, evaluación sumativa**
 
 Clase 5 → 15 de abril → Posición, orientación, forma, tamaño, textura y color (matiz, saturación y luminosidad).
 
-Clase 6 → 22 de abril → Variables aplicadas
+Clase 6 → 22 de abril → Variables aplicadas → **trabajo individual, evaluación sumativa**
 
 Clase 7 → 29 de abril → CSV y JSON: Formatos de intercambio de datos
 
-Clase 8 → 6 de mayo → Aplicaciones para la exploración de datos y prototipado de visualizaciones (RAWGraphs, Gephi, Power BI, OpenAI, etc.)
+Clase 8 → 6 de mayo → RAWGraphs: Aplicación para la exploración de datos y prototipado de visualizaciones
 
-Clase 9 → 13 de mayo → SVG: Formato para la gráfica vectorial en línea
+Clase 9 → 13 de mayo → De RAWGraphs a SVG, un formato para la gráfica vectorial en línea → **trabajo individual, evaluación sumativa**
 
 Clase 10 → 20 de mayo → HTML y CSS: Dos lenguajes de descripción para las páginas web
 
 Clase 11 → 27 de mayo → JavaScript: Un lenguaje de programación de páginas web
 
-Clase 12 → 3 de junio → Desarrollo de trabajo final, clase 1 de 3 (intercambio y exploraación de datos, y prototipado de visualizaciones)
+Clase 12 → 3 de junio → Desarrollo de trabajo final, clase 1 de 3 (intercambio y exploración de datos, y prototipado de visualizaciones) → **avance en trabajo individual, evaluación formativa**
 
-Clase 13 → 10 de junio → Desarrollo de trabajo final, clase 2 de 3 (desarrollo de visualizaciones con HTML, CSS y SVG)
+Clase 13 → 10 de junio → Desarrollo de trabajo final, clase 2 de 3 (desarrollo de visualizaciones con HTML, CSS y SVG) → **avance en trabajo individual, evaluación formativa**
 
-Clase 14 → 17 de junio → Desarrollo de trabajo final, clase 3 de 3 (interactividad en la visualización con JavaScript)
+Clase 14 → 17 de junio → Desarrollo de trabajo final, clase 3 de 3 (interactividad en la visualización con JavaScript) → **avance en trabajo individual, evaluación formativa**
 
-Clase 15 → 24 de junio → Entrega final de tablero de información (*dashboards*) e infografía digital.
+Clase 15 → 24 de junio → Entrega final de tablero de información (*dashboards*) e infografía digital → **entrega de trabajo individual, evaluación sumativa**
+
+- - - - 
+
+### Calificaciones para el promedio final
+
+Clase 4 → 8 de abril → trabajo grupal → 20% de la nota final
+
+Clase 6 → 22 de abril → trabajo individual → 20% de la nota final
+
+Clase 9 → 13 de mayo → trabajo individual → 20% de la nota final
+
+Clase 15 → 24 de junio → 40% de la nota final
+
+
 
