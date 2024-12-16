@@ -2,7 +2,7 @@
 
 Este es 1 de 3 electivos troncales de la mención Visual y Medios. Su condición "troncal" implica que: 
 
-- los créditos SCT-Chile son 6, no 3 como otros electivos (ver https://sct-chile.consejoderectores.cl/que_es_sct_chile.php) 
+- los créditos SCT-Chile que le corresponden son 6, no 3 como otros electivos (ver https://sct-chile.consejoderectores.cl/que_es_sct_chile.php) 
 
 - los contenidos abordados en estas asignaturas se consideran, hoy por hoy, esenciales y basales para el desarrollo profesional de un/a Diseñador/a con mención Visual y Medios (ver https://ucampus.uchile.cl/m/fau_catalogo/programa?bajar=1&id=162258)
 
@@ -10,7 +10,7 @@ Por lo definido en su programa, los contenidos abordados en **Diseño y visualiz
 
 Los contextos recién referidos implican trabajar con los lenguajes HTML, CSS y JavaScript, además de imágenes rasterizadas (JPG, PNG, WebP), gráficos vectoriales escalables (SVG) y formatos ligeros de intercambio de datos (JSON, CSV, XML); que son necesarios para desarrollar tableros de información (*dashboards*) e infografías digitales.
 
-Y el aporte al conocimiento de ciudadanías, comunidades y personas nos exige discutir sobre las tecnologías que permiten propagar desinformación en los medios de autocomunicación de masas que, a su vez, exigen constantes pruebas de verificación (*fact-checking*) a quienes creamos, diseñamos y producimos sistemas de información y visualización de datos.
+Pero, para asegurar el aporte al conocimiento de ciudadanías, comunidades y personas, previo a lo técnico está la discusión sobre las tecnologías que permiten propagar desinformación en los medios de autocomunicación de masas que, a su vez, exigen constantes pruebas de verificación (*fact-checking*) a quienes creamos, diseñamos y producimos sistemas de información y visualización de datos.
 
 - - - - - - -
 
