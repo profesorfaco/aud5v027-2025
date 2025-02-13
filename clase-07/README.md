@@ -3,3 +3,7 @@
 ### CSV y JSON
 
 Pendiente.
+
+_ _ _ _ 
+
+[clase-06](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-06/README.md) - [clase-08](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-08/README.md)
