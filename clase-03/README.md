@@ -14,9 +14,9 @@ Los datos aportan la primera letra a la pirámide DIKW (*Data*, *Information*, *
 
 Pero en esa evolución (tan apolínea) suelen omitirse algunos hechos (dionisiacos) tratados por las autorías reunidas en:
 
-- Data Feminism (2020)
-
 - Against Reduction (2021)
+
+- Data Feminism (2020)
 
 - ¡Ojo con los media! (2002)
 
@@ -30,7 +30,7 @@ Versión en línea: https://direct.mit.edu/books/oa-edited-volume/5214/Against-R
 
 #### ¡Ojo con los media!
 
-No hay versión en línea. Pero puedo adelantar que el impreso (en p.337) propone: 
+No hay versión en línea de este libro de Michel Collon. Pero debe ser de su interés, al menos, que propone (en p.337): 
 
 *Ante cualquier información, particularmente si proviene de un medio que se pretende neutro y no comprometido, hay que plantearse cinco cuestiones fundamentales*: 
 
