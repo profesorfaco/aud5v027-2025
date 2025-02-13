@@ -2,7 +2,8 @@
 
 ### Posición, orientación, forma, tamaño, textura y color (matiz, saturación y luminosidad)
 
-Pendiente.
+![5fa44835ab735150a7e18135_visual_variables](https://github.com/user-attachments/assets/0dfc0d3f-29f1-4c86-bcad-733b162d59a4)
+
 
 _ _ _ _ 
 
