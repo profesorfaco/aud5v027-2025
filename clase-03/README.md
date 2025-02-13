@@ -39,4 +39,4 @@ Ante cualquier información, particularmente si proviene de un medio que se pret
 
 _ _ _ _ 
 
-[clase-02](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-02/README.md) - [clase-04](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-04/README.md)
+[clase-02](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-02/README.md) ⇆ [clase-04](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-04/README.md)
