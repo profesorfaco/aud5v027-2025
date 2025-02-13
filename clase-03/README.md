@@ -35,4 +35,8 @@ Ante cualquier información, particularmente si proviene de un medio que se pret
 
 4. ¿Nos comunica correctamente el punto de vista contrario, y si no lo hace, dónde podemos encontrarlo?
 
-5. ¿Nos indica cuáles son las causas profundas del problema? 
+5. ¿Nos indica cuáles son las causas profundas del problema?
+
+_ _ _ _ 
+
+[clase-02](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-02/README.md) - [clase-04](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-04/README.md)
