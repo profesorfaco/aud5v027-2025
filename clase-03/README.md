@@ -8,6 +8,8 @@ En matadatos usted tiene algo de griego y algo de latín:
 
 - El latín *datum* refiere a lo que “se da”. Corresponde agregar que el inglés tomó tal [*datum*](https://www.merriam-webster.com/dictionary/datum) para el singular de [*data*](https://www.merriam-webster.com/dictionary/data), por esto siempre traducimos *data* como *datos*.
 
+Va un paso más allá del dato como medida para razonamientos, debates o cálculos. Este paso puede tener funciones descriptivas, estructurales o administrativas.
+
 Siga con la pirámide DIKW, por las iniciales de *Data*, *Information*, *Knowledge* y *Wisdom*, que presenta un supuesto evolutivo de mucho uso en la minería y análisis de *data*: Desde los datos se estructura la información, y desde ahí se hace un conocimiento que acumulado y puesto a prueba contra el tiempo alcanza a la sabiduría.
 
 Pero en esa evolución (tan apolínea) suelen omitirse algunos hechos (dionisiacos) tratados por las autorías reunidas en:
