@@ -2,7 +2,13 @@
 
 ### Metadatos, datos, información y conocimiento
 
-La pirámide DIKW, por las iniciales de *Data*, *Information*, *Knowledge* y *Wisdom*, presenta un supuesto evolutivo en la minería y análisis de *data*: Desde los datos se estructura la información, y desde ahí se hace un conocimiento que acumulado y puesto a prueba contra el tiempo alcanza el nivel de sabiduría.
+En matadatos tenemos algo de griego y algo de latín
+
+- El griego *μετα* refiere a lo que está “más allá” (por eso la metafísica de Aristótoles son los escritos más allá de la physis).
+
+- El latín *datum*, que refería a lo que “se da”. Corresponde agregar que el inglés tomó tal *datum* para el singular de *data*, por esto siempre traducimos *data* como *datos*.
+
+Sigamos con pirámide DIKW, por las iniciales de *Data*, *Information*, *Knowledge* y *Wisdom*, presenta un supuesto evolutivo en la minería y análisis de *data*: Desde los datos se estructura la información, y desde ahí se hace un conocimiento que acumulado y puesto a prueba contra el tiempo alcanza el nivel de sabiduría.
 
 Pero en esa evolución (tan apolínea) suelen omitirse algunos hechos (dionisiacos) tratados por las autorías reunidas en:
 
