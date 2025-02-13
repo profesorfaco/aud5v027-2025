@@ -6,4 +6,4 @@ Pendiente.
 
 _ _ _ _ 
 
-[clase-04](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-04/README.md) - [clase-06](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-06/README.md)
+[clase-04](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-04/README.md) ⇆ [clase-06](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-06/README.md)
