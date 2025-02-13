@@ -42,23 +42,23 @@ El curso de imparte los días martes, de 15:00 a 18:15 hrs.
 
 El curso comienza a las 15:00 hrs. del martes 11 de marzo y termina a las 18:15 hrs. del martes 24 de junio de 2025.
 
-Clase 1 → 11 de marzo → Presentación del curso e introducción a la historia y actualidad de la visualización de datos e información
+Clase 01 → 11 de marzo → Presentación del curso e introducción a la historia y actualidad de la visualización de datos e información
 
-Clase 2 → 18 de marzo → Presentación de hitos de historia y actualidad de la visualización de datos e información → **Trabajo grupal, evaluación diagnóstica**
+Clase 02 → 18 de marzo → Presentación de hitos de historia y actualidad de la visualización de datos e información → **Trabajo grupal, evaluación diagnóstica**
 
-Clase 3 → 25 de marzo → Metadatos, datos, información y conocimiento
+Clase 03 → 25 de marzo → Metadatos, datos, información y conocimiento
 
-Clase 4 → 1 de abril → Presentación sobre conocimiento situado contra los sesgos y la desinformación → **Trabajo grupal, evaluación sumativa**
+Clase 04 → 1 de abril → Presentación sobre conocimiento situado contra los sesgos y la desinformación → **Trabajo grupal, evaluación sumativa**
 
-Clase 5 → 8 de abril → Posición, orientación, forma, tamaño, textura y color (matiz, saturación y luminosidad).
+Clase 05 → 8 de abril → Posición, orientación, forma, tamaño, textura y color (matiz, saturación y luminosidad).
 
-Clase 6 → 15 de abril → Variables aplicadas → **Trabajo individual, evaluación sumativa**
+Clase 06 → 15 de abril → Variables aplicadas → **Trabajo individual, evaluación sumativa**
 
-Clase 7 → 22 de abril → CSV y JSON
+Clase 07 → 22 de abril → CSV y JSON
 
-Clase 8 → 29 de abril → RAWGraphs
+Clase 08 → 29 de abril → RAWGraphs
 
-Clase 9 → 6 de mayo → De RAWGraphs a SVG
+Clase 09 → 6 de mayo → De RAWGraphs a SVG
 
 Clase 10 → 13 de mayo → De SVG a HTML → **Trabajo individual, evaluación sumativa**
 
