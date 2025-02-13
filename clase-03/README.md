@@ -4,7 +4,7 @@
 
 En matadatos tenemos algo de griego y algo de latín
 
-- El griego *μετα* refiere a lo que está “más allá” (por eso la metafísica de Aristótoles son los escritos más allá de la physis).
+- El griego *μετα* refiere a lo que está “más allá” (por eso la metafísica de Aristótoles son los escritos más allá de la física, siendo *physis* naturaleza).
 
 - El latín *datum*, que refería a lo que “se da”. Corresponde agregar que el inglés tomó tal *datum* para el singular de *data*, por esto siempre traducimos *data* como *datos*.
 
