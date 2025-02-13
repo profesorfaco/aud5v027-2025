@@ -1,6 +1,6 @@
 # [Diseño y visualización de información](https://github.com/profesorfaco/aud5v027-2025) → Clase 06 → 15 de abril
 
-### Variables aplicadas → Trabajo individual, evaluación sumativa
+### Variables aplicadas → Trabajo individual, evaluación sumativa → 20% de la nota final
 
 Pendiente.
 
