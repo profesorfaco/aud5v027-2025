@@ -40,3 +40,6 @@ Boehm, G. (2007). Jenseits der Sprache? Anmerkungen zur Logik der Bilder. En su:
 Boehm, G. (2011). ¿Más allá del lenguaje? Apuntes sobre la lógica de las imágenes. En: Ana García Varas (Ed.). Filosofía de la imagen (pp.87-106). Ediciones Universidad Salamanca.
 
 
+- - - - 
+
+[Clase 02 →](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-02/README.md)
