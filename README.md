@@ -48,9 +48,9 @@ Clase 02 → 18 de marzo → Presentación de hitos de historia y actualidad de 
 
 Clase 03 → 25 de marzo → Metadatos, datos, información y conocimiento
 
-Clase 04 → 1 de abril → Presentación sobre conocimiento situado contra los sesgos y la desinformación → **Trabajo grupal, evaluación sumativa**
+Clase 04 → 01 de abril → Presentación sobre conocimiento situado contra los sesgos y la desinformación → **Trabajo grupal, evaluación sumativa**
 
-Clase 05 → 8 de abril → Posición, orientación, forma, tamaño, textura y color (matiz, saturación y luminosidad).
+Clase 05 → 08 de abril → Posición, orientación, forma, tamaño, textura y color (matiz, saturación y luminosidad).
 
 Clase 06 → 15 de abril → Variables aplicadas → **Trabajo individual, evaluación sumativa**
 
@@ -58,7 +58,7 @@ Clase 07 → 22 de abril → CSV y JSON
 
 Clase 08 → 29 de abril → RAWGraphs
 
-Clase 09 → 6 de mayo → De RAWGraphs a SVG
+Clase 09 → 06 de mayo → De RAWGraphs a SVG
 
 Clase 10 → 13 de mayo → De SVG a HTML → **Trabajo individual, evaluación sumativa**
 
@@ -66,7 +66,7 @@ Sin clases → 20 de mayo → **Receso de actividades docentes (19 al 23 de mayo
 
 Clase 11 → 27 de mayo → HTML y CSS: Dos lenguajes de descripción
 
-Clase 12 → 3 de junio → JavaScript: Un lenguaje de programación
+Clase 12 → 03 de junio → JavaScript: Un lenguaje de programación
 
 Clase 13 → 10 de junio → Desarrollo de trabajo final → **Avance en trabajo individual, evaluación formativa**
 
