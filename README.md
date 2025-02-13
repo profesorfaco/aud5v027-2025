@@ -78,9 +78,9 @@ Clase 15 → 24 de junio → Desarrollo de trabajo final → **Entrega de trabaj
 
 ### Calificaciones para el promedio final
 
-Clase 4 → 1 de abril → trabajo grupal → 20% de la nota final
+Clase 04 → 1 de abril → trabajo grupal → 20% de la nota final
 
-Clase 6 → 15 de abril → trabajo individual → 20% de la nota final
+Clase 06 → 15 de abril → trabajo individual → 20% de la nota final
 
 Clase 10 → 13 de mayo → trabajo individual → 20% de la nota final
 
