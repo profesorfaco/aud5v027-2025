@@ -2,9 +2,9 @@
 
 ### Metadatos, datos, información y conocimiento
 
-En matadatos usted tiene algo de griego y algo de latín
+En matadatos usted tiene algo de griego y algo de latín:
 
-- El griego *μετα* refiere a lo que está "más allá" o "después de" (por eso metafísica [se usó primero](https://es.wikipedia.org/wiki/Andr%C3%B3nico_de_Rodas#G%C3%A9nesis_circunstancial_de_la_palabra_metaf%C3%ADsica) para denominar a los tratados de Aristóteles que iban más allá de la *φυσικά*).
+- El griego *μετα* refiere a lo que está "más allá" o "después de" (por eso uno de los primeros usos de la [metafísica](https://es.wikipedia.org/wiki/Andr%C3%B3nico_de_Rodas#G%C3%A9nesis_circunstancial_de_la_palabra_metaf%C3%ADsica) fue denominar a los tratados de Aristóteles que iban más allá de la *φυσικά*).
 
 - El latín *datum* refiere a lo que “se da”. Corresponde agregar que el inglés tomó tal [*datum*](https://www.merriam-webster.com/dictionary/datum) para el singular de [*data*](https://www.merriam-webster.com/dictionary/data), por esto siempre traducimos *data* como *datos*.
 
