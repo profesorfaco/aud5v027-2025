@@ -25,17 +25,17 @@ Versión en línea: https://direct.mit.edu/books/oa-edited-volume/5214/Against-R
 
 No hay versión en línea. Pero puedo adelantar que el impreso (en p.337) propone: 
 
-Ante cualquier información, particularmente si proviene de un medio que se pretende neutro y no comprometido, hay que plantearse cinco cuestiones fundamentales: 
+*Ante cualquier información, particularmente si proviene de un medio que se pretende neutro y no comprometido, hay que plantearse cinco cuestiones fundamentales*: 
 
-1. ¿Quién origina la información?
+1. *¿Quién origina la información?*
 
-2. ¿Qué interés tiene en este asunto?
+2. *¿Qué interés tiene en este asunto?*
 
-3. ¿Qué ideología influye en el que habla?
+3. *¿Qué ideología influye en el que habla?*
 
-4. ¿Nos comunica correctamente el punto de vista contrario, y si no lo hace, dónde podemos encontrarlo?
+4. *¿Nos comunica correctamente el punto de vista contrario, y si no lo hace, dónde podemos encontrarlo?*
 
-5. ¿Nos indica cuáles son las causas profundas del problema?
+5. *¿Nos indica cuáles son las causas profundas del problema?*
 
 _ _ _ _ 
 
