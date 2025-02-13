@@ -33,7 +33,7 @@ Pero antes de pasar a tal actividad, corresponde *mostrar* cómo se organiza el 
 
 - - - - 
 
-Referencias:
+#### Referencias:
 
 Boehm, G. (2007). Jenseits der Sprache? Anmerkungen zur Logik der Bilder. En su: Wie Bilder Sinn erzeugen (pp.34-53). Berlin University Press 
 
