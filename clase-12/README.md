@@ -5,4 +5,4 @@
 Pendiente.
 _ _ _ _ 
 
-[clase-11](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-11/README.md) - [clase-13](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-13/README.md)
+[clase-11](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-11/README.md) ⇆ [clase-13](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-13/README.md)
