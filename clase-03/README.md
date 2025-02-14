@@ -12,26 +12,30 @@ Los metadatos van un paso más allá de lo que se da para los razonamientos, deb
 
 Los datos aportan la primera letra a la pirámide [DIKW](https://journals.sagepub.com/doi/epdf/10.1177/0165551508094050) (*Data*, *Information*, *Knowledge* y *Wisdom*), una pirámide que presenta un supuesto de progreso: Desde los datos se estructura la información, y desde ahí se hace un conocimiento que, acumulado y puesto a prueba contra el tiempo, alcanza a la sabiduría.
 
-Pero en tal progreso suelen omitirse dos grupos de problemas, que podemos caracterizar con dos publicaciones:
+Pero en tal supuesto de progreso suelen omitirse dos grupos de problemas, que usted puede explorar con dos publicaciones:
 
-1ra.- Para sintonizar con una forma de pensar en los datos, tanto en sus usos como en sus límites → **Data Feminism** → Versión en línea y español: https://data-feminism.mitpress.mit.edu/bienvenida  
+1er. grupo.- Problemas relacionados con la recolección cuando sólo cuenta lo que se cuenta → [**Data Feminism**](https://data-feminism.mitpress.mit.edu/bienvenida)  
 
-2da.- Para explorar la desinformación → **¡Ojo con los media!** → No hay versión en línea de este libro de Michel Collon. Pero debe ser de su interés, al menos, lo que propone en su página 337: 
+2do. grupo. - Problemas relacionados con la propagación de información errónea y desinformación → [**El fenómeno de la desinformación - INFORME I - Revisión de experiencias internacionales y en Chile.**](https://minciencia.gob.cl/uploads/filer_public/26/cb/26cb92cb-5614-4e7c-a46e-f001a2b838b1/informe_i_-_el_fenomeno_de_la_desinformacion_global_y_en_chile_1.pdf)
 
-*Ante cualquier información, particularmente si proviene de un medio que se pretende neutro y no comprometido, hay que plantearse cinco cuestiones fundamentales*: 
+Para explorar uno de tales grupos de problemas le corresponde desarrollar un trabajo siendo parte de un grupo. A este trabajo le corresponde una calificación que será el 20% de su promedio final.
 
-1. *¿Quién origina la información?*
+Pero para tal exploración corresponde sumar la lectura de:
 
-2. *¿Qué interés tiene en este asunto?*
+- Baskarada, S. & Koronios, A. (2013). Data, Information, Knowledge, Wisdom (DIKW): A Semiotic Theoretical and Empirical Exploration of the Hierarchy and its Quality Dimension → https://doi.org/10.3127/ajis.v18i1.748
 
-3. *¿Qué ideología influye en el que habla?*
+- Cruz, M., Reyes, M., & Cornejo, M. (2012). Conocimiento Situado y el Problema de la Subjetividad del Investigador/a → https://dx.doi.org/10.4067/S0717-554X2012000300005
 
-4. *¿Nos comunica correctamente el punto de vista contrario, y si no lo hace, dónde podemos encontrarlo?*
+- Frické, M. (2008). *The knowledge pyramid: a critique of the DIKW hierarchy* → https://doi.org/10.1177/01655515080940
 
-5. *¿Nos indica cuáles son las causas profundas del problema?*
+Lo que seguirá de tales lecturas será tomar una de la siguientes alternativas:
 
-Ambas publicaciones caracterizan dos grupos de problemas como dos vías posibles para pensar sobre *Data*, *Information*, *Knowledge* o *Wisdom*, partiendo desde el artículo [*The knowledge pyramid: a critique of the DIKW hierarchy* (Frické, 2008)](https://journals.sagepub.com/doi/pdf/10.1177/0165551508094050).
+- conectar el asunto de "Metadatos, datos, información y conocimiento" con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con la recolección cuando sólo cuenta lo que se cuenta.
+  
+- conectar el asunto de "Metadatos, datos, información y conocimiento con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconiendo los problemas relacionados con la propagación de información errónea y desinformación.
 
+  
+   
 _ _ _ _ 
 
 [clase-02](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-02/README.md) ⇆ [clase-04](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-04/README.md)
