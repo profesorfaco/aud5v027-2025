@@ -16,7 +16,7 @@ Pero en tal supuesto de progreso suelen omitirse dos grupos de problemas, que us
 
 1er. grupo.- Problemas relacionados con la recolección cuando sólo cuenta lo que se cuenta → [**Data Feminism**](https://data-feminism.mitpress.mit.edu/bienvenida)  
 
-2do. grupo. - Problemas relacionados con la propagación de información errónea y desinformación → [**El fenómeno de la desinformación - INFORME I - Revisión de experiencias internacionales y en Chile.**](https://minciencia.gob.cl/uploads/filer_public/26/cb/26cb92cb-5614-4e7c-a46e-f001a2b838b1/informe_i_-_el_fenomeno_de_la_desinformacion_global_y_en_chile_1.pdf)
+2do. grupo. - Problemas relacionados con la propagación de información errónea y desinformación → [**El fenómeno de la desinformación**](https://minciencia.gob.cl/uploads/filer_public/26/cb/26cb92cb-5614-4e7c-a46e-f001a2b838b1/informe_i_-_el_fenomeno_de_la_desinformacion_global_y_en_chile_1.pdf)
 
 Para explorar uno de tales grupos de problemas le corresponde desarrollar un trabajo siendo parte de un grupo. A este trabajo le corresponde una calificación que será el 20% de su promedio final.
 
