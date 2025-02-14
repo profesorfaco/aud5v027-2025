@@ -19,7 +19,7 @@ Para la clase de hoy, cada grupo debe:
 4. Compartir un documento escrito, con páginas numeradas, que ofrezca: 
 
 - 1 página de introducción;
-- 2 a 4 páginas de desarrollo (con la exposición crítica de todos los textos);
+- 2 a 4 páginas de desarrollo (con la exposición crítica de todos los 8 textos);
 - 1 página de conclusiones; y
 - 1 página de referencias bibliográficas.
 
