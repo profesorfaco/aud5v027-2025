@@ -2,7 +2,7 @@
 
 ### Presentación de hitos de historia y actualidad de la visualización de datos e información
 
-#### Trabajo grupal, evaluación diagnóstica
+#### Trabajo grupal, con evaluación diagnóstica
 
 Pendiente.
 
