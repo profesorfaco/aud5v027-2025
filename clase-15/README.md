@@ -2,7 +2,7 @@
 
 ### Desarrollo de trabajo final
 
-#### Entrega de trabajo individual, evaluación sumativa → 40% de la nota final
+#### Entrega de trabajo individual, con evaluación sumativa (40% de la nota final)
 
 Pendiente.
 _ _ _ _ 
