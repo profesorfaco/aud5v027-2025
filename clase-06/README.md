@@ -2,7 +2,7 @@
 
 ### Variables aplicadas
 
-#### Trabajo individual, evaluación sumativa → 20% de la nota final
+#### Trabajo individual, con evaluación sumativa (20% de la nota final)
 
 Pendiente.
 
