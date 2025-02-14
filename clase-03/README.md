@@ -12,7 +12,7 @@ Los metadatos van un paso más allá de lo que se da para los razonamientos, deb
 
 Luego son los datos los que aportan la primera letra a la pirámide DIKW (*Data*, *Information*, *Knowledge* y *Wisdom*), una pirámide o jerarquía que presenta un supuesto de progreso: Desde los datos se estructura la información, y desde ahí se hace un conocimiento que, acumulado y puesto a prueba contra el tiempo, alcanza a la sabiduría.
 
-Pero en tal supuesto de progreso, tan positivista, suelen omitir dos problemas:
+Pero tal supuesto de progreso, tan positivista, suelen omitir dos problemas:
 
 - Los problemas relacionados con la recolección cuando sólo cuenta lo que se cuenta → ver [**Data Feminism**](https://data-feminism.mitpress.mit.edu/pub/tzq8d54o/release/1); y
 
