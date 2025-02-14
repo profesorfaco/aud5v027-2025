@@ -2,7 +2,7 @@
 
 ### Desarrollo de trabajo final
 
-#### Avance en trabajo individual, evaluación formativa
+#### Avance en trabajo individual, con evaluación formativa
 
 Pendiente.
 _ _ _ _ 
