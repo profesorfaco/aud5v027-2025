@@ -10,7 +10,7 @@ En matadatos usted tiene algo de griego y algo de latín:
 
 Los metadatos van un paso más allá de lo que se da para los razonamientos, debates o cálculos. Este paso ofrece datos de los datos, con funciones descriptivas, estructurales o administrativas.
 
-Los datos aportan la primera letra a la pirámide [DIKW](https://journals.sagepub.com/doi/epdf/10.1177/0165551508094050) (*Data*, *Information*, *Knowledge* y *Wisdom*), una pirámide o jerarquía que presenta un supuesto de progreso: Desde los datos se estructura la información, y desde ahí se hace un conocimiento que, acumulado y puesto a prueba contra el tiempo, alcanza a la sabiduría.
+Luego son los datos los que aportan la primera letra a la pirámide [DIKW](https://journals.sagepub.com/doi/epdf/10.1177/0165551508094050) (*Data*, *Information*, *Knowledge* y *Wisdom*), una pirámide o jerarquía que presenta un supuesto de progreso: Desde los datos se estructura la información, y desde ahí se hace un conocimiento que, acumulado y puesto a prueba contra el tiempo, alcanza a la sabiduría.
 
 Pero en tal supuesto de progreso, tan positivista, suelen omitir dos problemas:
 
