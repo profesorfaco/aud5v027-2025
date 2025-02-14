@@ -23,7 +23,7 @@ Para la clase de hoy, cada grupo debe:
 - 1 página de conclusiones; y
 - 1 página de referencias bibliográficas.
 
-5. Cada párrafo en las 2 a 4 páginas de desarrollo debe apoyarse en el parafraseo o, al menos, una cita comentada (siempre con la referencia entre paréntesis, en formato APA).
+5. Cada párrafo en las 2 a 4 páginas de desarrollo debe apoyarse en una [paráfrasis](https://guiastematicas.bibliotecas.uc.cl/apa7/parafraseo) o en una [cita directa](https://guiastematicas.bibliotecas.uc.cl/apa7/citatextual) comentada (siempre con la referencia entre paréntesis, en formato APA).
 
 6. La página de referencia bibliográfica debe usar el formato APA. 
 
