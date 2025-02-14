@@ -8,7 +8,7 @@ En matadatos usted tiene algo de griego y algo de latín:
 
 - El latín *datum* refiere a lo que “se da”. Corresponde agregar que el inglés tomó tal [*datum*](https://www.merriam-webster.com/dictionary/datum) para el singular de [*data*](https://www.merriam-webster.com/dictionary/data), por esto siempre traducimos *data* como *datos*.
 
-Los metadatos van un paso más allá de la medida de lo que *se da* para razonamientos, debates o cálculos. Este paso ofrece datos para los datos, con funciones descriptivas, estructurales o administrativas.
+Los metadatos van un paso más allá de la medida de lo que *se da* para razonamientos, debates o cálculos. Este paso ofrece datos de los datos, con funciones descriptivas, estructurales o administrativas.
 
 Los datos aportan la primera letra a la pirámide [DIKW](https://journals.sagepub.com/doi/epdf/10.1177/0165551508094050) (*Data*, *Information*, *Knowledge* y *Wisdom*), una pirámide que presenta un supuesto de progreso: Desde los datos se estructura la información, y desde ahí se hace un conocimiento que, acumulado y puesto a prueba contra el tiempo, alcanza a la sabiduría.
 
