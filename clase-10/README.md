@@ -2,7 +2,7 @@
 
 ### De SVG a HTML
 
-#### Trabajo individual con evaluación sumativa (20% de la nota final)
+#### Trabajo individual, con evaluación sumativa (20% de la nota final)
 
 Pendiente.
 _ _ _ _ 
