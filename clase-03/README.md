@@ -20,13 +20,13 @@ Pero en esa evolución (tan apolínea) suelen omitirse algunos hechos (dionisiac
 
 - ¡Ojo con los media! (2002)
 
-#### Data Feminism
-
-Versión en línea y español: https://data-feminism.mitpress.mit.edu/bienvenida
-
 #### Against Reduction
 
 Versión en línea: https://direct.mit.edu/books/oa-edited-volume/5214/Against-ReductionDesigning-a-Human-Future-with
+
+#### Data Feminism
+
+Versión en línea y español: https://data-feminism.mitpress.mit.edu/bienvenida
 
 #### ¡Ojo con los media!
 
