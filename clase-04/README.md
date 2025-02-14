@@ -6,13 +6,13 @@
 
 Para la clase de hoy, cada grupo debe:
 
-1. Presentar un tema de investigación acotado y original, con el que puedan: 
+1. Haber decidido por un tema de investigación acotado y original, con el que puedan: 
 
 - conectar el asunto de "Metadatos, datos, información y conocimiento" con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con la recolección cuando sólo cuenta lo que se cuenta; o
 
 - conectar el asunto de "Metadatos, datos, información y conocimiento con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con la propagación de información errónea y desinformación.
 
-2. Compartir una exposición crítica de los 4 textos básicos, apuntados [la clase recién pasada](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-03/README.md).
+2. Preparar una exposición crítica de los 4 textos básicos, apuntados [la clase recién pasada](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-03/README.md).
 
 3. Sumar a la exposición crítica otros 4 textos que, relacionándose con los 4 previos, cuiden el equilibrio de género con autorías de relevancia en la actualidad.
 
@@ -23,11 +23,13 @@ Para la clase de hoy, cada grupo debe:
 - 1 página de conclusiones
 - 1 página de referencias bibliográficas.
 
-5. Cada párrafo en las páginas de desarrollo debe apoyarse en una paráfrasis o cita (con referencia entre paréntesis en formato APA)
+5. Cada párrafo en las páginas de desarrollo debe apoyarse en una paráfrasis o cita (con referencia entre paréntesis, en formato APA).
 
 6. La página de referencia bibliográfica debe usar el formato APA. 
 
 Cumpliendo completamente con cada punto recién referido se obtienen 6 puntos, a los que se suma 1 para llegar a la nota máxima de 7,0.
+
+En caso no se cumpla con el 5to. punto, se podría asumir que el grupo intenta presentar como de propia autoría un texto que no fue producido por sus inteligencias, sino una artificial. En este caso se procederá evaluar el trabajo completo con nota mínima (1,0).
 
 _ _ _ _ 
 
