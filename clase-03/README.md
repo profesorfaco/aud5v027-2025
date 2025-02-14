@@ -28,7 +28,7 @@ Pero antes, para tener una buena base para tal exploración, le corresponde suma
 
 - Frické, M. (2008). *The knowledge pyramid: a critique of the DIKW hierarchy* → https://doi.org/10.1177/01655515080940
 
-Lo que seguirá de tales lecturas será tomar una de la siguientes alternativas:
+Lo que seguirá de tales lecturas será tomar, como grupo, una de la siguientes alternativas:
 
 - conectar el asunto de "Metadatos, datos, información y conocimiento" con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con [la recolección cuando sólo cuenta lo que se cuenta](https://data-feminism.mitpress.mit.edu/pub/tzq8d54o/release/1).
   
