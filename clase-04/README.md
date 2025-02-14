@@ -29,7 +29,7 @@ Para la clase de hoy, cada grupo debe:
 
 Cumpliendo completamente con cada punto recién referido se obtienen 6 puntos, a los que se suma 1 para llegar a la nota máxima de 7,0.
 
-En caso no se cumpla con el 5to. punto, se podría asumir que el grupo intenta presentar como de propia autoría un texto que no fue producido por sus inteligencias, sino una artificial. En este caso se procederá evaluar el trabajo completo con nota mínima (1,0).
+**En caso no se cumpla con el 5to. punto, se podría asumir que el grupo intenta presentar como de propia autoría un texto que no fue producido por sus inteligencias, sino una artificial. En este caso se procederá evaluar el trabajo completo con nota mínima (1,0)**.
 
 _ _ _ _ 
 
