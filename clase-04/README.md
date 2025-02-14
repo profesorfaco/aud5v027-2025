@@ -2,7 +2,7 @@
 
 ### Presentación sobre conocimiento situado contra los sesgos y la desinformación
 
-#### Trabajo grupal, evaluación sumativa → 20% de la nota final
+#### Trabajo grupal, con evaluación sumativa (20% de la nota final)
 
 Pendiente.
 
