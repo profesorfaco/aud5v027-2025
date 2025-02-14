@@ -8,7 +8,7 @@ Para la clase de hoy, cada grupo debe:
 
 1. Presentar un tema de investigación acotado y original, con el que puedan: 
 
-- conectar el asunto de "Metadatos, datos, información y conocimiento" con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con la recolección cuando sólo cuenta lo que se cuenta.
+- conectar el asunto de "Metadatos, datos, información y conocimiento" con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con la recolección cuando sólo cuenta lo que se cuenta; o
 
 - conectar el asunto de "Metadatos, datos, información y conocimiento con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con la propagación de información errónea y desinformación.
 
