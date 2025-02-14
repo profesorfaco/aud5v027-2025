@@ -2,7 +2,7 @@
 
 ### Desarrollo de trabajo final
 
-#### Avance en trabajo individual, evaluación formativa → 20% de la nota final
+#### Avance en trabajo individual, evaluación formativa
 
 Pendiente.
 _ _ _ _ 
