@@ -12,25 +12,11 @@ Los metadatos van un paso más allá de la medida de lo que *se da* para razonam
 
 Los datos aportan la primera letra a la pirámide [DIKW](https://journals.sagepub.com/doi/epdf/10.1177/0165551508094050) (*Data*, *Information*, *Knowledge* y *Wisdom*), una pirámide que presenta un supuesto de progreso: Desde los datos se estructura la información, y desde ahí se hace un conocimiento que, acumulado y puesto a prueba contra el tiempo, alcanza a la sabiduría.
 
-Pero en esa evolución (tan apolínea) suelen omitirse algunos hechos (dionisiacos) tratados por las autorías reunidas en publicaciones tales como:
+Pero en tal progreso suelen omitirse dos grupos de problemas, que podemos caracterizar con dos publicaciones:
 
-- Against Reduction (2021)
+1ra.- **Data Feminism** → Versión en línea y español: https://data-feminism.mitpress.mit.edu/bienvenida
 
-- Data Feminism (2020)
-
-- ¡Ojo con los media! (2002)
-
-#### Against Reduction
-
-Versión en línea: https://direct.mit.edu/books/oa-edited-volume/5214/Against-ReductionDesigning-a-Human-Future-with
-
-#### Data Feminism
-
-Versión en línea y español: https://data-feminism.mitpress.mit.edu/bienvenida
-
-#### ¡Ojo con los media!
-
-No hay versión en línea de este libro de Michel Collon. Pero debe ser de su interés, al menos, lo que propone en su página 337: 
+2da.- **¡Ojo con los media!** → No hay versión en línea de este libro de Michel Collon. Pero debe ser de su interés, al menos, lo que propone en su página 337: 
 
 *Ante cualquier información, particularmente si proviene de un medio que se pretende neutro y no comprometido, hay que plantearse cinco cuestiones fundamentales*: 
 
