@@ -84,7 +84,7 @@ Clase 06 → 15 de abril → trabajo individual → 20% de la nota final
 
 Clase 10 → 13 de mayo → trabajo individual → 20% de la nota final
 
-Clase 15 → 24 de junio → 40% de la nota final
+Clase 15 → 24 de junio → trabajo individual → 40% de la nota final
 
 Este electivo troncal se aprueba con nota final igual o superior a 4.0 y asistencia igual o mayor al 75%.
 
