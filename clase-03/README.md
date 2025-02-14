@@ -30,7 +30,7 @@ Versión en línea y español: https://data-feminism.mitpress.mit.edu/bienvenida
 
 #### ¡Ojo con los media!
 
-No hay versión en línea de este libro de Michel Collon. Pero debe ser de su interés, al menos, que propone (en p.337): 
+No hay versión en línea de este libro de Michel Collon. Pero debe ser de su interés, al menos, lo que propone en su página 337: 
 
 *Ante cualquier información, particularmente si proviene de un medio que se pretende neutro y no comprometido, hay que plantearse cinco cuestiones fundamentales*: 
 
