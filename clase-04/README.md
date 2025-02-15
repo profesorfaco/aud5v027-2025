@@ -24,7 +24,7 @@ Se evaluarán los siguientes puntos:
 
 3. Estructurar introducción y conclusión ajustándose al esquema de las secciones básicas compartidos por Aprendizaje UChile en el artículo [¿Cómo escribir una introducción y conclusión?](https://aprendizaje.uchile.cl/recursos-para-leer-escribir-y-hablar-en-la-universidad/profundiza/profundiza-la-escritura/como-escribir-una-introduccion-y-conclusion/?highlight=introducci%C3%B3n)
 
-4. Usar en cada párrafo del desarrollo los recursos de la [paráfrasis](https://guiastematicas.bibliotecas.uc.cl/apa7/parafraseo) o la [cita textual](https://guiastematicas.bibliotecas.uc.cl/apa7/citatextual) con extensión menor a 40 palabras.
+4. Usar en cada párrafo del desarrollo los recursos de la [paráfrasis](https://guiastematicas.bibliotecas.uc.cl/apa7/parafraseo) o la [cita textual](https://guiastematicas.bibliotecas.uc.cl/apa7/citatextual) (con extensión menor a 40 palabras).
 
 5. Usar al menos 3 de los 4 textos compartidos la clase recién pasada para sus paráfrasis y citas.
 
