@@ -12,7 +12,7 @@ Se evaluarán los siguientes puntos:
 
 - conectar el asunto de "Metadatos, datos, información y conocimiento con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con la propagación de información errónea y desinformación.
 
-2. Redactar los resultados de la investigación en un informe, con formato de artículo, considerando:
+2. Redactar los resultados de la investigación en un informe, con formato de artículo científico, considerando:
 
 - introducción (250 a 500 palabras);
 
@@ -32,9 +32,17 @@ Se evaluarán los siguientes puntos:
   
 7. Presentar al curso su artículo oralmente, apoyándose en mapa conceptual, resumen, tarjetas didácticas y cuestionario generados, desde el texto, por [Algor](https://www.algoreducation.com/es).
 
-**En caso no se cumpla con el 4to. punto, se podría asumir que el grupo intenta presentar como de propia autoría un texto que no fue producido por sus inteligencias, sino una artificial. En este caso se procederá evaluar a cada integrante del grupo con nota mínima (1,0)**.
+**En caso no se cumpla con el 4to. punto se hace evidente un hecho y se abre una sospecha. El hecho es que el grupo desconoce el formato solicitado y la sospecha es que el grupo intenta presentar como de propia autoría un texto que no fue producido por sus inteligencias, sino una artificial. En caso no se cumpla con el cuarto punto, cada integrante del grupo con nota mínima (1,0)**.
 
-**En caso de cumplir con los 7 puntos, destacándose en cada uno, cada integrante del grupo obtiene la nota 7,0**.
+**En caso de cumplir de modo excelente con los 7 puntos, cada integrante del grupo obtiene la nota máxima (7,0)**.
+
+| EVALUACIÓN POR PUNTO | SUMA |
+|:----------------|:------:|
+| ¡Excelente! | 1,00 |
+| Muy bien logrado | 0,75 | 
+| Bien logrado | 0,50 |
+| Medianamente logrado | 0,25 |
+| No logrado | 0,00 |
 
 _ _ _ _ 
 
