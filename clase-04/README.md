@@ -14,11 +14,11 @@ Se evaluarán los siguientes puntos:
 
 2. Redactar los resultados de la investigación en un informe, con formato de artículo, considerando:
 
-- introducción (200 a 400 palabras);
+- introducción (250 a 500 palabras);
 
-- desarrollo (1200 a 2400 palabras);
+- desarrollo (1250 a 2500 palabras);
 
-- conclusión (200 a 400 palabras); y
+- conclusión (250 a 500 palabras); y
 
 - referencias bibliográficas en [formato APA (7ma. edición)](https://repositorio.uchile.cl/bitstream/handle/2250/182467/Manual-APA-7a-ed.pdf).
 
