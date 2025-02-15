@@ -14,13 +14,13 @@ Se evaluarán los siguientes puntos:
 
 2. Redactar los resultados de la investigación en un informe, con formato de artículo, considerando:
 
-- una página de introducción;
+- introducción (200 a 400 palabras);
 
-- dos a cuatro páginas de desarrollo (con la exposición crítica de todos los 6 textos);
+- desarrollo (1200 a 2400 palabras);
 
-- una página de conclusiones; y
+- conclusión (200 a 400 palabras); y
 
-- una página de referencias bibliográficas en formato APA (7ma. edición)
+- referencias bibliográficas en [formato APA (7ma. edición)](https://repositorio.uchile.cl/bitstream/handle/2250/182467/Manual-APA-7a-ed.pdf).
 
 3. Estructurar introducción y conclusión ajustándose al esquema de las secciones básicas compartidos por Aprendizaje UChile en el artículo [¿Cómo escribir una introducción y conclusión?](https://aprendizaje.uchile.cl/recursos-para-leer-escribir-y-hablar-en-la-universidad/profundiza/profundiza-la-escritura/como-escribir-una-introduccion-y-conclusion/?highlight=introducci%C3%B3n)
 
