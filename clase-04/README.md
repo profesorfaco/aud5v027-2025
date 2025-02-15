@@ -22,7 +22,7 @@ Se evaluarán los siguientes puntos:
 
 - referencias bibliográficas en [formato APA (7ma. edición)](https://repositorio.uchile.cl/bitstream/handle/2250/182467/Manual-APA-7a-ed.pdf).
 
-3. Estructurar introducción y conclusión ajustándose al esquema de las secciones básicas compartidos por Aprendizaje UChile en el artículo [¿Cómo escribir una introducción y conclusión?](https://aprendizaje.uchile.cl/recursos-para-leer-escribir-y-hablar-en-la-universidad/profundiza/profundiza-la-escritura/como-escribir-una-introduccion-y-conclusion/?highlight=introducci%C3%B3n)
+3. Estructurar introducción y conclusión ajustándose al esquema de las secciones básicas compartidos por Aprendizaje UChile en [¿Cómo escribir una introducción y conclusión?](https://aprendizaje.uchile.cl/recursos-para-leer-escribir-y-hablar-en-la-universidad/profundiza/profundiza-la-escritura/como-escribir-una-introduccion-y-conclusion/?highlight=introducci%C3%B3n)
 
 4. Usar en cada párrafo del desarrollo los recursos de la [paráfrasis](https://guiastematicas.bibliotecas.uc.cl/apa7/parafraseo) o la [cita textual](https://guiastematicas.bibliotecas.uc.cl/apa7/citatextual) (con extensión menor a 40 palabras).
 
