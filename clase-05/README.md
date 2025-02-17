@@ -41,7 +41,7 @@ Aún en el paréntesis, queda agregar que la omisión práctica de una de tres p
 
 Aunque el 99% de la población [no sería ciega en Chile](https://fundacionluz.cl/noticias/2023/04/comunicado-los-bajos-porcentajes-educacionales-de-las-personas-con-discapacidad-visual-redundan-en-una-alta-cesantia-71-2-con-ceguera-total-no-tiene-trabajo/), nos queda que entre videntes el daltonismo puede afectar al 0,5% de las mujeres y 8% de los hombres. Lo que corresponde es mantener la confianza en el *VALUE*, pero revisar bien *HUE* y *SATURATION* con herramientas tales como [COLOR BREWER 2.0](https://colorbrewer2.org/), activando la opción de *colorblind safe*.
 
-Cerremos el paréntesis para volver a dejar las 3 propiedades del color en 2 variables aportadas a las 7 variables visuales según Bertin, para poder pasar a que cada una de ellas tiene diferentes propiedades y capacidades para representar determinados tipos de información:
+Cerremos el paréntesis para volver a dejar las 3 propiedades del color en 2 variables aportadas a las 7 variables visuales según Bertin, para poder pasar a que cada una de las siete tiene diferentes capacidades para representar determinados tipos de información:
 
 ![5fa44835ab735150a7e18135_visual_variables](https://github.com/user-attachments/assets/0dfc0d3f-29f1-4c86-bcad-733b162d59a4)
 
