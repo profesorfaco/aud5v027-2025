@@ -32,7 +32,7 @@ El informe se calificará con una nota equivalente al 20% de su promedio final. 
   
 6. Presentar al curso su trabajo oralmente, apoyándose en mapa conceptual, resumen, tarjetas didácticas y cuestionario generados, desde el informe escrito, por [Algor](https://www.algoreducation.com/es).
 
-**En caso no se cumpla con el 3er. punto se hace evidente un hecho y se abre una sospecha. El hecho es que el grupo desconoce el formato solicitado y la sospecha es que el grupo intenta presentar como de propia autoría un texto que no fue producido por sus inteligencias, sino una artificial. En caso no se cumpla con el 3er. punto, cada integrante del grupo con nota mínima (1,0)**.
+**En caso no se cumpla con el 3er. punto se hace evidente un hecho y se abre una sospecha**. El hecho es que el grupo desconoce el formato solicitado y la sospecha es que el grupo intenta presentar como de propia autoría un texto que no fue producido por sus inteligencias, sino una artificial. **En caso no se cumpla con el 3er. punto, cada integrante del grupo con nota mínima (1,0)**.
 
 **En caso de cumplir de modo excelente con los 6 puntos, bastará sumar 1 punto base para que integrante del grupo obtiene la nota máxima (7,0)**.
 
