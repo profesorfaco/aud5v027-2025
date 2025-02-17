@@ -46,7 +46,7 @@ El informe se calificará con una nota equivalente al 20% de su promedio final. 
 | Medianamente logrado | 0,25 |
 | No logrado | 0,00 |
 
-**El punto base se pierde si es que al inicio de la clase no se hace entrega del informe escrito ni el resultado de apoyo generado por [Algor](https://www.algoreducation.com/es)**. Se podrá esperar hasta 20 minutos la entrega de quienes no obtienen el punto base. Si se cumplen los 20 minutos del espera y el grupo aún no entrega: La calificación para cada integrante del grupo es mínima (1,0)
+**El punto base se pierde si es que al inicio de la clase no se hace entrega del informe escrito ni el apoyo a la presentació oral, generado por [Algor](https://www.algoreducation.com/es)**. Se podrá esperar hasta 20 minutos la entrega de quienes no obtienen el punto base. Si se cumplen los 20 minutos del espera y el grupo aún no entrega: La calificación para cada integrante del grupo es mínima (1,0)
 
 _ _ _ _ 
 
