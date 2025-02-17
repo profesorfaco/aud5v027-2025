@@ -45,7 +45,7 @@ Cerremos el paréntesis para volver a dejar las 3 propiedades del color en 2 var
 
 ![5fa44835ab735150a7e18135_visual_variables](https://github.com/user-attachments/assets/0dfc0d3f-29f1-4c86-bcad-733b162d59a4)
 
-> **A variable is SELECTIVE** when it enables us to immediately isolate all the correspondences belonging to the same caregory […] **A variable is ASSOCIATIVE** when it permits the immediate grouping of all the correspondences differentiated by this variable […] **A variable is ORDERED** when the visual classing of its categories, of its steps, is immediate and universal […] **A variable is QUANTITATIVE** when the visual disptance between two categories if an ordered component can be immediately expressed by a numerical ratio (Bertin, 1983, p.48)
+> **A variable is SELECTIVE** when it enables us to immediately isolate all the correspondences belonging to the same caregory […] **A variable is ASSOCIATIVE** when it permits the immediate grouping of all the correspondences differentiated by this variable […] **A variable is ORDERED** when the visual classing of its categories, of its steps, is immediate and universal […] **A variable is QUANTITATIVE** when the visual distance between two categories of an ordered component can be immediately expressed by a numerical ratio (Bertin, 1983, p.48).
 _ _ _ _ 
 
 [clase-04](https://github.com/profesorfaco/troncal/blob/main/clase-04/README.md) ⇆ [clase-06](https://github.com/profesorfaco/troncal/blob/main/clase-06/README.md)
