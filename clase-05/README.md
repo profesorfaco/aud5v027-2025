@@ -47,7 +47,7 @@ Cerremos el paréntesis para volver a dejar las 3 propiedades del color en 2 var
 
 > **A variable is SELECTIVE** when it enables us to immediately isolate all the correspondences belonging to the same caregory […] **A variable is ASSOCIATIVE** when it permits the immediate grouping of all the correspondences differentiated by this variable […] **A variable is ORDERED** when the visual classing of its categories, of its steps, is immediate and universal […] **A variable is QUANTITATIVE** when the visual distance between two categories of an ordered component can be immediately expressed by a numerical ratio (Bertin, 1983, p.48).
 
-En el dominio de las distintas capacidades de las variables es que se hace legible una gráfica como las de Gapminder:
+En el dominio de las distintas capacidades de las variables es que se hace legible una gráfica como las de [Gapminder](https://www.gapminder.org/tools/#$chart-type=bubbles&url=v2):
 
 ![Gapminder](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gapminder-World-2015.pdf/page1-640px-Gapminder-World-2015.pdf.jpg)
 
