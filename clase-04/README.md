@@ -4,7 +4,7 @@
 
 #### Trabajo grupal, con evaluación sumativa (20% de la nota final)
 
-El trabajo consiste en preparar un informe escrito con un máximo de 3.500 palabras, en formato de artículo científico o *paper*, después de decidir e investigar sobre un tema acotado y original, con el que un grupo de estudiantes pueda: 
+El trabajo consiste en preparar un informe escrito con un máximo de 3.500 palabras, en formato de [artículo científico o *paper*](https://bibliotecas.duoc.cl/documentos-academicos-y-presentaciones/formato-articulo-paper), después de decidir e investigar sobre un tema acotado y original, con el que un grupo de estudiantes pueda: 
 
 - conectar el asunto de "Metadatos, datos, información y conocimiento" con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con la recolección cuando sólo cuenta lo que se cuenta; o
 
@@ -16,9 +16,9 @@ El informe se calificará con una nota equivalente al 20% de su promedio final. 
 
 - introducción (250 a 500 palabras);
 
-- desarrollo (1250 a 2500 palabras);
+- desarrollo (metodología y resultados; 1250 a 2500 palabras);
 
-- conclusión (250 a 500 palabras); y
+- conclusión o discusión (250 a 500 palabras); y
 
 - referencias bibliográficas en [formato APA (7ma. edición)](https://repositorio.uchile.cl/bitstream/handle/2250/182467/Manual-APA-7a-ed.pdf).
 
