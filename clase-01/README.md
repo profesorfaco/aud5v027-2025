@@ -1,4 +1,4 @@
-# [Diseño y visualización de información](https://github.com/profesorfaco/aud5v027-2025) → Clase 01 → 11 de marzo
+# [Diseño y visualización de información](https://github.com/profesorfaco/troncal) → Clase 01 → 11 de marzo
 
 ### Presentación del curso e introducción a la historia y actualidad de la visualización de datos e información
 
