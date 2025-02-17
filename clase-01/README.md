@@ -41,4 +41,4 @@ Boehm, G. (2011). ¿Más allá del lenguaje? Apuntes sobre la lógica de las im�
 
 - - - - 
 
-[clase 02](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-02/README.md) →
+[clase 02](https://github.com/profesorfaco/troncal/blob/main/clase-02/README.md) →
