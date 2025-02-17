@@ -1,4 +1,4 @@
-# [Diseño y visualización de información](https://github.com/profesorfaco/aud5v027-2025) → Clase 15 → 24 de junio
+# [Diseño y visualización de información](https://github.com/profesorfaco/troncal/) → Clase 15 → 24 de junio
 
 ### Desarrollo de trabajo final
 
@@ -7,4 +7,4 @@
 Pendiente.
 _ _ _ _ 
 
-← [clase-14](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-14/README.md)
+← [clase-14](https://github.com/profesorfaco/troncal/blob/main/clase-14/README.md)
