@@ -4,13 +4,13 @@
 
 #### Trabajo grupal, con evaluación sumativa (20% de la nota final)
 
-El trabajo consiste en preparar un informe escrito, formato artículo científico o *paper*, después de decidir e investigar sobre un tema acotado y original, con el que el grupo pueda: 
+El trabajo consiste en preparar un informe escrito con un máximo de 3.000 palabras, en formato artículo científico o *paper*, después de decidir e investigar sobre un tema acotado y original, con el que un grupo de estudiantes pueda: 
 
 - conectar el asunto de "Metadatos, datos, información y conocimiento" con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con la recolección cuando sólo cuenta lo que se cuenta; o
 
 - conectar el asunto de "Metadatos, datos, información y conocimiento con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con la propagación de información errónea y desinformación.
 
-El informe se calificará con nota una nota equivalente al 20% de su promedio final. Para la calificación cuentan los siguientes puntos:
+El informe se calificará con una nota equivalente al 20% de su promedio final. Para la calificación cuentan los siguientes seis puntos:
 
 1. Redactar los resultados de la investigación en un informe, con formato de artículo científico o *paper*, considerando:
 
@@ -26,11 +26,11 @@ El informe se calificará con nota una nota equivalente al 20% de su promedio fi
 
 3. Usar en cada párrafo del desarrollo los recursos de la [paráfrasis](https://guiastematicas.bibliotecas.uc.cl/apa7/parafraseo) o la [cita textual](https://guiastematicas.bibliotecas.uc.cl/apa7/citatextual) (con extensión menor a 40 palabras).
 
-4. Usar al menos 3 de los 4 textos compartidos en [la clase recién pasada](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-03/README.md) para las paráfrasis o citas exigidas en cada párrafo.
+4. Usar al menos 3 de los 4 textos compartidos en [la clase recién pasada](https://github.com/profesorfaco/aud5v027-2025/blob/main/clase-03/README.md) para las paráfrasis o citas exigidas en cada párrafo del desarrollo.
 
-5. Agregar paráfrasis o citas cuyo origen sea el de, al menos, 2 textos diferentes de los compartidos; textos que el grupo haya encontrado en su investigación y que resulten pertinentes, relevantes y de actualidad.
+5. Agregar paráfrasis o citas de, al menos, 2 textos diferentes de los compartidos; textos que el grupo haya encontrado en su investigación y que resulten pertinentes, relevantes y de actualidad.
   
-6. Presentar al curso su artículo oralmente, apoyándose en mapa conceptual, resumen, tarjetas didácticas y cuestionario generados, desde el texto, por [Algor](https://www.algoreducation.com/es).
+6. Presentar al curso su trabajo oralmente, apoyándose en mapa conceptual, resumen, tarjetas didácticas y cuestionario generados, desde el informe escrito, por [Algor](https://www.algoreducation.com/es).
 
 **En caso no se cumpla con el 3er. punto se hace evidente un hecho y se abre una sospecha. El hecho es que el grupo desconoce el formato solicitado y la sospecha es que el grupo intenta presentar como de propia autoría un texto que no fue producido por sus inteligencias, sino una artificial. En caso no se cumpla con el 3er. punto, cada integrante del grupo con nota mínima (1,0)**.
 
@@ -45,6 +45,8 @@ El informe se calificará con nota una nota equivalente al 20% de su promedio fi
 | Bien logrado | 0,50 |
 | Medianamente logrado | 0,25 |
 | No logrado | 0,00 |
+
+**El punto base se pierde si es que al inicio de la clase no se hace entrega del informe escrito ni el resultado de apoyo generado por [Algor](https://www.algoreducation.com/es)**. Se podrá esperar hasta 20 minutos la entrega de quienes no obtienen el punto base. Si se cumplen los 20 minutos del espera y el grupo aún no entrega: La calificación para cada integrante del grupo es mínima (1,0)
 
 _ _ _ _ 
 
