@@ -4,7 +4,7 @@
 
 #### Trabajo grupal, con evaluación sumativa (20% de la nota final)
 
-El trabajo consiste en preparar un informe escrito con un máximo de 3.000 palabras, en formato artículo científico o *paper*, después de decidir e investigar sobre un tema acotado y original, con el que un grupo de estudiantes pueda: 
+El trabajo consiste en preparar un informe escrito con un máximo de 3.500 palabras, en formato artículo científico o *paper*, después de decidir e investigar sobre un tema acotado y original, con el que un grupo de estudiantes pueda: 
 
 - conectar el asunto de "Metadatos, datos, información y conocimiento" con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con la recolección cuando sólo cuenta lo que se cuenta; o
 
