@@ -2,7 +2,7 @@
 
 ### Posición, tamaño, textura, orientación, forma y color (matiz, saturación y luminosidad)
 
-En *Semiology of Graphics* de Jacques Bertin, se lee:
+En [*Semiology of Graphics*](https://www.esri.com/en-us/esri-press/browse/semiology-of-graphics-diagrams-networks-maps) de Jacques Bertin, se lee:
 
 > Fixed at a given point on the plane, the mark, provided it has a certain dimension, can be drawn in different modes. It can vary in\
 SIZE\
