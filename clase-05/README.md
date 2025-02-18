@@ -13,10 +13,6 @@ ORIENTATION\
 SHAPE\
 and can also express correspondence between its planar position and its position in the series constituting each variable.
 
-A lo que se agrega, a renglón seguido: 
-
-> The designer thus has eight variables to work with. They are the components of the graphic system and will be called the “*visual variables*.” The form the world of images. With them designers suggest perspective, the painter reality, the graphic draftsman ordered relationships, and the cartographer space (1983, p.42).
-
 Corresponde hacer un paréntesis en lo de VALUE y COLOR, que refieren a dos de tres propiedades del color. 
 
 Hay una cuestión práctica, relacionada con la impresión a color en la década de 1960 en París, que podría justificar a un Jacques Bertin que omite una de las tres propiedades del color: *The saturated tone is not of constante value but varies in value according to the color* […] *fact that leads to many of the main problems raised by the use of color* (2008, p.85). 
