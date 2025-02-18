@@ -13,7 +13,7 @@ ORIENTATION\
 SHAPE\
 and can also express correspondence between its planar position and its position in the series constituting each variable.
 
-A lo que se agrega, a renglón seguido en la misma página: 
+A lo que se agrega, a renglón seguido: 
 
 > The designer thus has eight variables to work with. They are the components of the graphic system and will be called the “*visual variables*.” The form the world of images. With them designers suggest perspective, the painter reality, the graphic draftsman ordered relationships, and the cartographer space (1983, p.42).
 
