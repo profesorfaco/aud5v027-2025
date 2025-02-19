@@ -6,6 +6,15 @@
 
 Nigel Holmes - https://www.youtube.com/watch?v=YzGl2-VZ_ss
 
+Isabel Meirelles - https://www.youtube.com/watch?v=Nb0HfCj1C7Q
+
+Manuel Lima - https://www.youtube.com/watch?v=TWionXlkX3Q
+
+José Duarte - https://www.youtube.com/watch?v=VRmwCcULgHM
+
+Giorgia Lupi - https://www.youtube.com/watch?v=0CSVvdim3AI
+
+Nadja Popovich - https://www.youtube.com/watch?v=3N6H4ve7TpQ
 
 
 _ _ _ _ 
