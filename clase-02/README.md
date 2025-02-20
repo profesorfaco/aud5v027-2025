@@ -4,17 +4,31 @@
 
 #### Trabajo grupal, con evaluación diagnóstica
 
-Nigel Holmes - https://www.youtube.com/watch?v=YzGl2-VZ_ss
+Nigel Holmes 
 
-Isabel Meirelles - https://www.youtube.com/watch?v=Nb0HfCj1C7Q
+- https://www.youtube.com/watch?v=YzGl2-VZ_ss
 
-Manuel Lima - https://www.youtube.com/watch?v=TWionXlkX3Q
+Isabel Meirelles 
 
-José Duarte - https://www.youtube.com/watch?v=VRmwCcULgHM
+- https://www.youtube.com/watch?v=Nb0HfCj1C7Q
 
-Giorgia Lupi - https://www.youtube.com/watch?v=0CSVvdim3AI
+Manuel Lima 
 
-Nadja Popovich - https://www.youtube.com/watch?v=3N6H4ve7TpQ
+- https://www.youtube.com/watch?v=TWionXlkX3Q
+
+José Duarte 
+
+- https://www.youtube.com/watch?v=VRmwCcULgHM
+
+Giorgia Lupi 
+
+- https://www.youtube.com/watch?v=sFIDCtRX_-o
+
+- https://www.youtube.com/watch?v=jFl9kFms7nA
+
+Nadja Popovich 
+
+- https://www.youtube.com/watch?v=3N6H4ve7TpQ
 
 
 _ _ _ _ 
