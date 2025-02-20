@@ -8,17 +8,7 @@ Nigel Holmes
 
 - https://www.youtube.com/watch?v=YzGl2-VZ_ss
 
-Isabel Meirelles 
-
-- https://www.youtube.com/watch?v=Nb0HfCj1C7Q
-
-Manuel Lima 
-
-- https://www.youtube.com/watch?v=TWionXlkX3Q
-
-José Duarte 
-
-- https://www.youtube.com/watch?v=VRmwCcULgHM
+- https://www.youtube.com/watch?v=XKd6f_1mBJY
 
 Giorgia Lupi 
 
@@ -30,7 +20,14 @@ Nadja Popovich
 
 - https://www.youtube.com/watch?v=3N6H4ve7TpQ
 
+- https://www.youtube.com/watch?v=m7HewcO6F48
 
+Federica Fragapane
+
+- https://www.youtube.com/watch?v=AloL4SuRdA4
+
+- https://www.youtube.com/watch?v=TpkH2ghm9NA
+  
 _ _ _ _ 
 
 [clase-01](https://github.com/profesorfaco/troncal/blob/main/clase-01/README.md) ⇆ [clase-03](https://github.com/profesorfaco/troncal/blob/main/clase-03/README.md)
