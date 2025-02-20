@@ -4,34 +4,39 @@
 
 #### Trabajo grupal, con evaluación diagnóstica
 
-Federica Fragapane
+Buscar a:
+
+- Isabel Meirelles
+- Sandra Rendgen
+- Edward Tufte
+
+Presentar sus aportes bibliográficos, y algo de la historia de la visualización de información que presenta en sus libros.
+
+Luego, decidir por una de las siguientes opciones para ver dos videos, y compartir lo aprendido: 
+
+1 Federica Fragapane
 
 - https://www.youtube.com/watch?v=AloL4SuRdA4
-
 - https://www.youtube.com/watch?v=TpkH2ghm9NA
 
-Giorgia Lupi 
+2 Giorgia Lupi 
 
 - https://www.youtube.com/watch?v=sFIDCtRX_-o
-
 - https://www.youtube.com/watch?v=jFl9kFms7nA
 
-Nadja Popovich 
+3 Nadja Popovich 
 
 - https://www.youtube.com/watch?v=3N6H4ve7TpQ
-
 - https://www.youtube.com/watch?v=m7HewcO6F48
 
-Nicholas Felton 
+4 Nicholas Felton 
 
 - https://www.youtube.com/watch?v=bxYuLAvVqXM
-
 - https://www.youtube.com/watch?v=aRg1PxDRL5o
   
-Nigel Holmes 
+5 Nigel Holmes 
 
 - https://www.youtube.com/watch?v=YzGl2-VZ_ss
-
 - https://www.youtube.com/watch?v=XKd6f_1mBJY
 
 _ _ _ _ 
