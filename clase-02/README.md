@@ -13,7 +13,7 @@ Seleccionar un nombre:
 - Sandra Rendgen
 - Edward Tufte
 
-Buscar todas sus publicaciones (por [acá](https://www.visualcinnamon.com/resources/learning-data-visualization/books/) hay algunas) y la mayor cantidad de ponencias posibles. Luego, desde lo encontrado, revisar los hitos en la historia de la visualización de información previa al siglo XX.
+Buscar todas sus publicaciones –por [acá](https://www.visualcinnamon.com/resources/learning-data-visualization/books/) hay algunas– y la mayor cantidad de conferencias posibles. Luego, desde lo encontrado, revisar los hitos en la historia de la visualización de información previa al siglo XX.
 
 Luego, decidir por uno de los siguientes videos y compartir lo aprendido: 
 
