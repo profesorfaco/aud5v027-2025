@@ -11,7 +11,7 @@ Buscar a:
 - Sandra Rendgen
 - Edward Tufte
 
-Buscar todas sus publicaciones (libros y artículo), la mayor cantidad de ponencias posibles y, entre tales registros, buscar los hitos en la historia de la visualización de información previa al siglo XX.
+Buscar todas sus publicaciones y la mayor cantidad de ponencias posibles. Luego, desde lo encontrado, revisar los hitos en la historia de la visualización de información previa al siglo XX.
 
 Luego, decidir por uno de los siguientes videos y compartir lo aprendido: 
 
