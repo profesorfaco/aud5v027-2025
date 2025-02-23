@@ -6,7 +6,7 @@
 
 El trabajo se compone de dos partes:
 
-La primera parte se resuelve seleccionando un/a autor/a entre:
+**La primera parte se resuelve seleccionando un/a autor/a entre**:
 
 - Alberto Cairo
 - Stephen Few
@@ -17,9 +17,9 @@ La primera parte se resuelve seleccionando un/a autor/a entre:
 
 Con la selección grupal hecha: Corresponde buscar todas sus publicaciones –por [acá](https://www.visualcinnamon.com/resources/learning-data-visualization/books/) hay algunas– y la mayor cantidad de conferencias posibles. Luego, entre lo encontrado, revisar aquello que podría considerarse como hitos en la historia de la visualización de información.
 
-Preparar una pizarra virtual en línea –[Miro](https://miro.com/es/pizarra-virtual/)– con la que el grupo pueda compartir los hitos referidos por su autor/a seleccionado/a. Agregue a la misma Pizarra un apartado que refiera al aporte de su autor/a seleccionada/o.
+Preparar una pizarra virtual en línea –[Miro](https://miro.com/es/pizarra-virtual/)– con la que el grupo pueda compartir los hitos referidos por su autor/a seleccionado/a. Agregue a la misma Pizarra un apartado con una reseña de su autor/a seleccionada/o.
 
-La segunda parte consiste, nuevamente, en escoger uno entre seis nombres. 
+**La segunda parte consiste, nuevamente, en escoger uno entre seis nombres**. 
 
 Pero esta vez el grupo debe ver un par de videos, hacer un resumen de cada uno y buscar un tercero que pueda complementar una aproximación completa al trabajo de:
 
