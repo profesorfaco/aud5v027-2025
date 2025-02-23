@@ -17,7 +17,7 @@ La primera parte se resuelve seleccionando un/a autor/a entre:
 
 Con la selección grupal hecha: Corresponde buscar todas sus publicaciones –por [acá](https://www.visualcinnamon.com/resources/learning-data-visualization/books/) hay algunas– y la mayor cantidad de conferencias posibles. Luego, entre lo encontrado, revisar aquello que podría considerarse como hitos en la historia de la visualización de información.
 
-Preparar una Pizarra virtual –[Miro](https://miro.com/es/pizarra-virtual/)– con la que el grupo pueda compartir los hitos referidos por su autor/a seleccionado/a. Agregue a la misma Pizarra un apartado que refiera a su autor/a seleccionada/o.
+Preparar una pizarra virtual en línea –[Miro](https://miro.com/es/pizarra-virtual/)– con la que el grupo pueda compartir los hitos referidos por su autor/a seleccionado/a. Agregue a la misma Pizarra un apartado que refiera al aporte de su autor/a seleccionada/o.
 
 La segunda parte consiste, nuevamente, en escoger uno entre seis nombres. 
 
