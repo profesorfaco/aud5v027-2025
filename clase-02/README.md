@@ -19,7 +19,9 @@ Con la selección grupal hecha: Corresponde buscar todas sus publicaciones –po
 
 Preparar una Pizarra virtual –[Miro](https://miro.com/es/pizarra-virtual/)– con la que el grupo pueda compartir los hitos referidos por su autor/a seleccionado/a. Agregue a la misma Pizarra un apartado que refiera a su autor/a seleccionada/o.
 
-La segunda parte consiste, nuevamente, en escoger uno entre seis nombres. Pero esta vez el grupo debe ver un par de videos, hacer un resumen de cada uno y buscar un tercero que pueda complementar una aproximación completa al trabajo de:
+La segunda parte consiste, nuevamente, en escoger uno entre seis nombres. 
+
+Pero esta vez el grupo debe ver un par de videos, hacer un resumen de cada uno y buscar un tercero que pueda complementar una aproximación completa al trabajo de:
 
 Adolfo Arranz
 
