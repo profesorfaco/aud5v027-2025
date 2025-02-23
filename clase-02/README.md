@@ -4,7 +4,9 @@
 
 #### Trabajo grupal, con evaluación diagnóstica
 
-Seleccionar un nombre:
+El trabajo se compone de dos partes:
+
+La primera parte se resuelve seleccionando un/a autor/a entre:
 
 - Alberto Cairo
 - Stephen Few
@@ -13,9 +15,11 @@ Seleccionar un nombre:
 - Sandra Rendgen
 - Edward Tufte
 
-Buscar todas sus publicaciones –por [acá](https://www.visualcinnamon.com/resources/learning-data-visualization/books/) hay algunas– y la mayor cantidad de conferencias posibles. Luego, desde lo encontrado, revisar los hitos en la historia de la visualización de información previa al siglo XX.
+Con la selección grupal hecha: Corresponde buscar todas sus publicaciones –por [acá](https://www.visualcinnamon.com/resources/learning-data-visualization/books/) hay algunas– y la mayor cantidad de conferencias posibles. Luego, entre lo encontrado, revisar aquello que podría considerarse como hitos en la historia de la visualización de información.
 
-Luego, decidir por uno de los siguientes videos y compartir lo aprendido: 
+Preparar una Pizarra virtual –[Miro](https://miro.com/es/pizarra-virtual/)– con la que el grupo pueda compartir los hitos referidos por su autor/a seleccionado/a. Agregue a la misma Pizarra un apartado que refiera a su autor/a seleccionada/o.
+
+La segunda parte consiste en ver un par de videos, y compartir lo aprendido. Como en el caso anterior, corresponde escoger uno entre seis nombres:
 
 Adolfo Arranz
 
