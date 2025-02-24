@@ -47,7 +47,7 @@ En el dominio de las distintas capacidades de las variables es que se hace legib
 
 ![Gapminder](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gapminder-World-2015.pdf/page1-640px-Gapminder-World-2015.pdf.jpg)
 
-No podemos cerrar sin antes considerar una presentación complementaria de las variables y sus capacidades es la que ofrecen Koponen & Hildén (2019) en su Data visualization handbook:
+Para complementar lo ya presentado, pueden consultarse las variables y respectivas capacidades según son presentadas por Koponen & Hildén (2019) en su Data visualization handbook:
 
 - Numbers (data on ratio or interval scale)
 
@@ -55,7 +55,7 @@ No podemos cerrar sin antes considerar una presentación complementaria de las v
 
 - Categories (data on nominal scale)
 
-Los mismos autores ofrecen una lámina resumen: [DVHB_VisualVariables_A3](https://www.dropbox.com/scl/fi/czd5o518k494s8skq70et/DVHB_VisualVariables_A3.pdf?rlkey=se4s2fraaok487p5gm4w28jkf&e=1&st=wgrgyyze&dl=0
+Estas varibales y sus agrupaciones pueden consultar en la lámina: [DVHB_VisualVariables_A3](https://www.dropbox.com/scl/fi/czd5o518k494s8skq70et/DVHB_VisualVariables_A3.pdf?rlkey=se4s2fraaok487p5gm4w28jkf&e=1&st=wgrgyyze&dl=0
 ).
 
 Al revisar tal lámina, conviene considerar que reconocen como variables las tres propiedades del color referidas más arriba, llamándolas repectivamente: *COLOR HUE*, *COLOR SATURATION*, *COLOR DENSITY*.
