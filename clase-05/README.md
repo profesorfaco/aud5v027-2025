@@ -29,11 +29,11 @@ La H de *Hue* refiere al color-color, el matiz o, según algunas traducciones, e
 
 La S de *Saturation* refiere a la fuerza o pureza del color. Ejemplo: un rojo-rojo es un rojo muy saturado, y un verde-verde también lo es. La *Saturation* se define con porcentajes (0% a 100%).
 
-El asunto se complica en las múltiples opciones para la tercera sigla, cuando B, V, L e I refieren a cuán iluminada esté la marca coloreada en el plano, acercándose a la luz (blanca) u oscuridad (negra), y lo hace con un porcentaje, de 0% a 100%. Pero el 100% implica distintas iluminaciones según sea B, V, L o I. A usted le corresponde averiguar y recordar cuándo la mejor iluminación es 50% o 100%.
+El asunto se complica en las múltiples opciones para la tercera sigla, cuando B, V, L e I refieren a cuán iluminada esté la marca coloreada en el plano, acercándose a la luz (blanco) u oscuridad (negro), y lo hace con un porcentaje, de 0% a 100%. Pero el 100% implica distintas iluminaciones según sea B, V, L o I. A usted le corresponde averiguar y recordar cuándo la mejor iluminación es 50% o 100%.
 
 Puesto de otro modo, a usted le queda averiguar, con la ayuda de un modelo tridimensional, cuando el rojo-rojo con la mejor iluminación es 0° 100% 100% y cuándo es 0° 100% 50% entre HSB, HSV, HSL o HSI.
 
-Aún en el paréntesis, queda agregar que la omisión práctica de parte de las propiedades del color puede ser útil después de un giro importante de la Organización Mundial de la Salud, la que pensaba a la discapacidad como atributo personal en la década de 1980, y comenzó a pensar, recién en el año 2001, que la discapacidad depende del contexto: «La discapacidad no es sólo un problema de salud. Es un fenómeno complejo que refleja la interacción entre las características del cuerpo de una persona y las características de la sociedad en la que vive» ([Microsoft, 2016](https://inclusive.microsoft.design/tools-and-activities/Inclusive101Guidebook.pdf)).
+Aún en el paréntesis, queda agregar que la omisión de una de las propiedades del color puede ser útil después de un giro importante de la Organización Mundial de la Salud, la que pensaba a la discapacidad como atributo personal en la década de 1980 y comenzó a pensar en el año 2001 que la discapacidad depende del contexto: «La discapacidad no es sólo un problema de salud. Es un fenómeno complejo que refleja la interacción entre las características del cuerpo de una persona y las características de la sociedad en la que vive» ([Microsoft, 2016](https://inclusive.microsoft.design/tools-and-activities/Inclusive101Guidebook.pdf)).
 
 Aunque el 99% de la población [no sería ciega en Chile](https://fundacionluz.cl/noticias/2023/04/comunicado-los-bajos-porcentajes-educacionales-de-las-personas-con-discapacidad-visual-redundan-en-una-alta-cesantia-71-2-con-ceguera-total-no-tiene-trabajo/), nos queda que entre videntes el daltonismo puede afectar al 0,5% de las mujeres y 8% de los hombres. Lo que corresponde es mantener la confianza en el *VALUE*, pero revisar bien *HUE* y *SATURATION* con herramientas tales como [COLOR BREWER 2.0](https://colorbrewer2.org/), activando la opción de *colorblind safe*, o revisar nuestros trabajos en un navegador web después de activa alguna extensión como [Daltonize](https://chromewebstore.google.com/detail/daltonize/obcnmdgpjakcffkcjnonpdlainhphpgh?pli=1).
 
@@ -47,7 +47,7 @@ En el dominio de las distintas capacidades de las variables es que se hace legib
 
 ![Gapminder](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gapminder-World-2015.pdf/page1-640px-Gapminder-World-2015.pdf.jpg)
 
-Para complementar lo ya presentado, pueden consultarse las variables y respectivas capacidades según son presentadas por Koponen & Hildén (2019) en su Data visualization handbook:
+Para complementar, se pueden consultar las variables y respectivas capacidades según son presentadas por Koponen & Hildén (2019) en su *Data visualization handbook*:
 
 - Numbers (data on ratio or interval scale)
 
@@ -59,6 +59,13 @@ Estas varibales y sus agrupaciones pueden consultar en la lámina: [DVHB_VisualV
 ).
 
 Al revisar tal lámina, conviene considerar que reconocen como variables las tres propiedades del color referidas más arriba, llamándolas repectivamente: *COLOR HUE*, *COLOR SATURATION*, *COLOR DENSITY*.
+
+#### Referencias:
+
+Bertin, J. (2008). Semiology of Graphics: diagrams, networks, maps. Esry Press. 
+
+Koponen, J. & Hildén, J. (2019). Data Visualization Handbook. Aalto korkeakoulusäätiö.
+
 
 _ _ _ _ 
 
