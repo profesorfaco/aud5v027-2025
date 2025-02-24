@@ -17,7 +17,7 @@ Corresponde hacer un paréntesis en lo de VALUE y COLOR, que refieren a dos de t
 
 Hay una cuestión práctica, relacionada con la impresión a color en la década de 1960 en París, que podría justificar a un Jacques Bertin que omite una de las tres propiedades del color: *The saturated tone is not of constante value but varies in value according to the color* […] *fact that leads to many of the main problems raised by the use of color* (2008, p.85). 
 
-Para la época en que Jacques Bertin teorizaba convenía omitir, por problemas de reproducción, la S en HSB, HSV, HSL o HSI:
+Para la época en que Jacques Bertin teorizaba convenía omitir, por problemas de reproducción impresa, la S en HSB, HSV, HSL o HSI:
 
 - **H**ue
 
@@ -25,7 +25,7 @@ Para la época en que Jacques Bertin teorizaba convenía omitir, por problemas d
 
 - **B**rightness, **V**alue, **L**ightness o **I**ntensity
 
-La H de *Hue* refiere al color-color, el matiz o, según algunas traducciones, el tono. Ejemplo: El rojo es un *hue* distinto del verde. El *Hue* se define por grados (0° a 359°) en un círculo que une al extremo violeta y extremo rojo en el magenta no espectral. 
+La H de *Hue* refiere al color-color, el matiz o, según algunas traducciones, el tono. Ejemplo: El rojo es un *hue* distinto del verde. El *Hue* se define por grados (0° a 359°) en un círculo que une al extremo violeta con el extremo rojo a través del magenta no espectral. 
 
 La S de *Saturation* refiere a la fuerza o pureza del color. Ejemplo: un rojo-rojo es un rojo muy saturado, y un verde-verde también lo es. La *Saturation* se define con porcentajes (0% a 100%).
 
@@ -46,6 +46,19 @@ Cerremos el paréntesis para volver a dejar parte de las propiedades entre las  
 En el dominio de las distintas capacidades de las variables es que se hace legible un gráfico (*Diagramm*, *chart*) como los de [Gapminder](https://www.gapminder.org/tools/#$chart-type=bubbles&url=v2):
 
 ![Gapminder](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gapminder-World-2015.pdf/page1-640px-Gapminder-World-2015.pdf.jpg)
+
+Una presentación complementaria de las variables y sus capacidades es la que ofrecen Koponen & Hildén (2019) en su Data visualization handbook:
+
+- Numbers (data on ratio or interval scale)
+
+- Order (data on ordinal scale)
+
+- Categories (data on nominal scale)
+
+Los mismos autores ofrecen una lámina resumen: [DVHB_VisualVariables_A3](https://www.dropbox.com/scl/fi/czd5o518k494s8skq70et/DVHB_VisualVariables_A3.pdf?rlkey=se4s2fraaok487p5gm4w28jkf&e=1&st=wgrgyyze&dl=0
+).
+
+Al revisar tal lámina, conviene considerar que reconocen como variables las tres propiedades del color referidas más arriba, llamándolas repectivamente: *COLOR HUE*, *COLOR SATURATION*, *COLOR DENSITY*.
 
 _ _ _ _ 
 
