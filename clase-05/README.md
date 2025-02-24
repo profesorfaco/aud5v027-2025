@@ -47,7 +47,7 @@ En el dominio de las distintas capacidades de las variables es que se hace legib
 
 ![Gapminder](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gapminder-World-2015.pdf/page1-640px-Gapminder-World-2015.pdf.jpg)
 
-Una presentación complementaria de las variables y sus capacidades es la que ofrecen Koponen & Hildén (2019) en su Data visualization handbook:
+No podemos cerrar sin antes considerar una presentación complementaria de las variables y sus capacidades es la que ofrecen Koponen & Hildén (2019) en su Data visualization handbook:
 
 - Numbers (data on ratio or interval scale)
 
