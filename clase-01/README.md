@@ -27,9 +27,11 @@ Podría ser que "gráfica" no haya sido la mejor traducción para el texto origi
 
 Podría ser que el alemán "Diagramm" quede más cerca del inglés "chart", y tal palabra en inglés conecta mejor con el español-de-Chile cuando decimos "gráfico de …", tal como en "gráfico de barras", "gráfico de líneas" o "gráfico de torta". Gráficos que suelen conectarse, en su origen histórico, con [William Playfair](https://notes.math.ca/en/article/william-playfairs-statistical-graphs/); y los gráficos de William Playfair pueden conectarse con [*Las 5 visualizaciones de datos más influyentes de todos los tiempos*](https://www.tableau.com/es-es/learn/whitepapers/5-most-influential-visualizations).
 
-Esas 5 visualizaciones no se limitan a ser "gráfico de …". Con el término de diseño y visualización de información podemos partir en tales gráficos para luego avanzar [más allá de la presentación visual de datos cuantitativos en una forma esquemática](https://www.visual-literacy.org/periodic_table/periodic_table.html), sea con o sin ejes *x* e *y*, atendiendo en este avance a que:
+Esas 5 visualizaciones no se limitan a ser "gráfico de …". Pero podemos partir en tales gráficos para luego avanzar [más allá de la presentación visual de datos cuantitativos en una forma esquemática](https://www.visual-literacy.org/periodic_table/periodic_table.html), sea con o sin ejes *x* e *y*, atendiendo en este avance a que:
 
-> The purpose of visualization is insights, not pictures (Ben Shneiderman, como se cita en Koponen & Hildén, 2019, p.190).
+> The purpose of [visualization](https://www.visual-literacy.org/periodic_table/periodic_table.html) is insights, not pictures (Ben Shneiderman, como se cita en Koponen & Hildén, 2019, p.190).
+
+Ahora veamos si obtenemos algún *insight* con las visualizaciones de la [caracterización del curso](https://www.u-cursos.cl/fau/2025/1/AUD5V027/1/integrantes/stats).
 
 - - - - 
 
