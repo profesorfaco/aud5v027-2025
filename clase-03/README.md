@@ -28,6 +28,10 @@ Pero antes, para tener una buena base para tal exploración, le corresponde suma
 
 - Frické, M. (2008). *The knowledge pyramid: a critique of the DIKW hierarchy* → https://doi.org/10.1177/01655515080940
 
+- McDowell, K. (2021). Storytelling wisdom: Story, information, and DIKW. JASIST, Journal of the ASsociation for Information Science and Technology, 72 (10), 1223-1233 → https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24466
+
+- van Meter, H. J. (2020). Revising the DIKW pyramid and the real relationship between data, information, knowledge, and wisdom. Law, Technology and Humans, 2(2), 69–80 → https://search.informit.org/doi/10.3316/agispt.20210112042035
+
 Lo que seguirá de tales lecturas será tomar, como grupo, una de la siguientes alternativas:
 
 - conectar el asunto de "Metadatos, datos, información y conocimiento" con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con [la recolección cuando sólo cuenta lo que se cuenta](https://data-feminism.mitpress.mit.edu/pub/tzq8d54o/release/1).
