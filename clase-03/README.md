@@ -22,15 +22,15 @@ Para explorar uno de tales problemas, a usted le corresponde desarrollar un trab
 
 Pero antes, para tener una buena base para tal exploración, le corresponde sumar la lectura de:
 
-- Cruz, M., Reyes, M., & Cornejo, M. (2012). Conocimiento Situado y el Problema de la Subjetividad del Investigador/a → https://dx.doi.org/10.4067/S0717-554X2012000300005
+- Cruz, M., Reyes, M., & Cornejo, M. (2012). *Conocimiento Situado y el Problema de la Subjetividad del Investigador/a* → https://dx.doi.org/10.4067/S0717-554X2012000300005
 
 - Frické, M. (2008). *The knowledge pyramid: a critique of the DIKW hierarchy* → https://journals.sagepub.com/doi/10.1177/0165551508094050
 
-- Frické, M. H. (2018). Data-information-knowledge-wisdom (DIKW) pyramid, framework, continuum. Encyclopedia of big data, 1-4 → https://link.springer.com/referenceworkentry/10.1007/978-3-319-32001-4_331-1
+- Frické, M. H. (2018). *Data-information-knowledge-wisdom (DIKW) pyramid, framework, continuum* → https://link.springer.com/referenceworkentry/10.1007/978-3-319-32001-4_331-1
 
-- Peters, M. A., Jandrić, P., & Green, B. J. (2024). The DIKW model in the age of artificial intelligence. Postdigital science and education, 1-10 → https://www.researchgate.net/publication/378527476_The_DIKW_Model_in_the_Age_of_Artificial_Intelligence
+- Peters, M. A., Jandrić, P., & Green, B. J. (2024). *The DIKW model in the age of artificial intelligence* → https://www.researchgate.net/publication/378527476_The_DIKW_Model_in_the_Age_of_Artificial_Intelligence
 
-- Weinberger, D. (2010). The Problem with the Data-Information-Knowledge-Wisdom Hierarchy. Harvard Business Review → https://hbr.org/2010/02/data-is-to-info-as-info-is-not
+- Weinberger, D. (2010). *The Problem with the Data-Information-Knowledge-Wisdom Hierarchy* → https://hbr.org/2010/02/data-is-to-info-as-info-is-not
 
 Lo que seguirá de tales lecturas será tomar, como grupo, una de la siguientes alternativas:
 
