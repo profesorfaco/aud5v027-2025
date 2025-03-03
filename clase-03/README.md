@@ -28,8 +28,6 @@ Pero antes, para tener una buena base para tal exploración, le corresponde suma
 
 - Frické, M. (2008). *The knowledge pyramid: a critique of the DIKW hierarchy* → https://doi.org/10.1177/01655515080940
 
-- McDowell, K. (2021). Storytelling wisdom: Story, information, and DIKW. JASIST, Journal of the ASsociation for Information Science and Technology, 72 (10), 1223-1233 → https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24466
-
 - Peters, M. A., Jandrić, P., & Green, B. J. (2024). *The DIKW model in the age of artificial intelligence*. Postdigital science and education, 1-10 → https://www.researchgate.net/publication/378527476_The_DIKW_Model_in_the_Age_of_Artificial_Intelligence
 
 Lo que seguirá de tales lecturas será tomar, como grupo, una de la siguientes alternativas:
