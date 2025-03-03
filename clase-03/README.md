@@ -22,19 +22,21 @@ Para explorar uno de tales problemas, a usted le corresponde desarrollar un trab
 
 Pero antes, para tener una buena base para tal exploración, le corresponde sumar la lectura de:
 
-- Baskarada, S. & Koronios, A. (2013). Data, Information, Knowledge, Wisdom (DIKW): A Semiotic Theoretical and Empirical Exploration of the Hierarchy and its Quality Dimension → https://doi.org/10.3127/ajis.v18i1.748
-
 - Cruz, M., Reyes, M., & Cornejo, M. (2012). Conocimiento Situado y el Problema de la Subjetividad del Investigador/a → https://dx.doi.org/10.4067/S0717-554X2012000300005
 
-- Frické, M. (2008). *The knowledge pyramid: a critique of the DIKW hierarchy* → https://doi.org/10.1177/01655515080940
+- Frické, M. (2008). *The knowledge pyramid: a critique of the DIKW hierarchy* → https://journals.sagepub.com/doi/10.1177/0165551508094050
 
-- Peters, M. A., Jandrić, P., & Green, B. J. (2024). *The DIKW model in the age of artificial intelligence*. Postdigital science and education, 1-10 → https://www.researchgate.net/publication/378527476_The_DIKW_Model_in_the_Age_of_Artificial_Intelligence
+- Frické, M. H. (2018). Data-information-knowledge-wisdom (DIKW) pyramid, framework, continuum. Encyclopedia of big data, 1-4 → https://link.springer.com/referenceworkentry/10.1007/978-3-319-32001-4_331-1
+
+- Peters, M. A., Jandrić, P., & Green, B. J. (2024). The DIKW model in the age of artificial intelligence. Postdigital science and education, 1-10 → https://www.researchgate.net/publication/378527476_The_DIKW_Model_in_the_Age_of_Artificial_Intelligence
+
+- Weinberger, D. (2010). The Problem with the Data-Information-Knowledge-Wisdom Hierarchy. Harvard Business Review → https://hbr.org/2010/02/data-is-to-info-as-info-is-not
 
 Lo que seguirá de tales lecturas será tomar, como grupo, una de la siguientes alternativas:
 
 - conectar el asunto de "Metadatos, datos, información y conocimiento" con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con [la recolección cuando sólo cuenta lo que se cuenta](https://data-feminism.mitpress.mit.edu/pub/tzq8d54o/release/1).
   
-- conectar el asunto de "Metadatos, datos, información y conocimiento con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con [la propagación de información errónea y desinformación](https://minciencia.gob.cl/uploads/filer_public/26/cb/26cb92cb-5614-4e7c-a46e-f001a2b838b1/informe_i_-_el_fenomeno_de_la_desinformacion_global_y_en_chile_1.pdf).
+- conectar el asunto de "Metadatos, datos, información y conocimiento" con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con [la propagación de información errónea y desinformación](https://minciencia.gob.cl/uploads/filer_public/26/cb/26cb92cb-5614-4e7c-a46e-f001a2b838b1/informe_i_-_el_fenomeno_de_la_desinformacion_global_y_en_chile_1.pdf).
    
 _ _ _ _ 
 
