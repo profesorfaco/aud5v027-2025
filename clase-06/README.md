@@ -8,7 +8,7 @@ Corresponde revisar un fragmento del libro *Infographic designers’ sketchbooks
 
 Vamos a trabajar con lápiz y papel, como en la mayoría de tales *sketchbooks*.
 
-Se entregará un desafío de visualización, para el que se deben transformar datos en una cualidad visible con atención a las variables visuales ya revisadas y el cumplimiento de los principios descritos en https://www.tableau.com/blog/stephen-few-data-visualization
+Se entregará un desafío de visualización, para el que se deben transformar datos en una cualidad visible, poniendo atención a las variables visuales ya revisadas y el cumplimiento de los principios descritos en https://www.tableau.com/blog/stephen-few-data-visualization
 
 _ _ _ _ 
 
