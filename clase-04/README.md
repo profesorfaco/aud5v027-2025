@@ -8,7 +8,7 @@ El trabajo consiste en preparar un informe escrito con un máximo de 3.500 palab
 
 - conectar el asunto de "Metadatos, datos, información y conocimiento" con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con la recolección cuando sólo cuenta lo que se cuenta; o
 
-- conectar el asunto de "Metadatos, datos, información y conocimiento con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con la propagación de información errónea y desinformación.
+- conectar el asunto de "Metadatos, datos, información y conocimiento" con el asunto del "conocimiento situado contra los sesgos y la desinformación", reconociendo los problemas relacionados con la propagación de información errónea y desinformación.
 
 El informe se calificará con una nota equivalente al 20% de su promedio final. Para la calificación cuentan los siguientes seis puntos:
 
