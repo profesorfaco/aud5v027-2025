@@ -10,7 +10,7 @@ Por lo definido en su programa, los contenidos abordados en **Diseño y visualiz
 
 Los contextos recién referidos implican trabajar con los lenguajes HTML, CSS y JavaScript, además de imágenes rasterizadas (JPG, PNG, WebP), gráficos vectoriales escalables (SVG) y formatos ligeros de intercambio de datos (JSON, CSV, XML); que son necesarios para desarrollar tableros de información (*dashboards*) e infografías digitales.
 
-Pero, para asegurar el aporte al conocimiento de ciudadanías, comunidades y personas, antes de trabajar con tales tecnologías corresponde reflexionar sobre los usos que permiten propagar desinformación en los medios de autocomunicación de masas, que exigen constantes pruebas de verificación (*fact-checking*) a quienes creamos, diseñamos y producimos sistemas de información y visualización de datos.
+Pero, para asegurar el aporte al conocimiento de ciudadanías, comunidades y personas, antes de trabajar con tales tecnologías corresponde reflexionar sobre los usos que permiten propagar desinformación en los medios de autocomunicación de masas sesgadas.
 
 - - - - - - -
 
