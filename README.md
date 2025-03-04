@@ -38,7 +38,7 @@ Pero, para asegurar el aporte al conocimiento de ciudadanías, comunidades y per
 
 ### Clase a clase del primer semestre de 2025
 
-El curso de imparte los días martes, de 15:00 a 18:15 hrs. 
+El curso de imparte los días martes, de 15:00 a 18:15 hrs., en el laboratorio B-13.
 
 El curso comienza a las 15:00 hrs. del martes 11 de marzo y termina a las 18:15 hrs. del martes 24 de junio de 2025.
 
