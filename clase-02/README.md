@@ -9,7 +9,6 @@ El trabajo se compone de dos partes:
 **La primera parte se resuelve seleccionando un/a autor/a entre**:
 
 - Alberto Cairo
-- Stephen Few
 - Manuel Lima
 - Isabel Meirelles
 - Sandra Rendgen
@@ -32,11 +31,6 @@ Nicholas Felton
 
 - https://www.youtube.com/watch?v=bxYuLAvVqXM
 - https://www.youtube.com/watch?v=aRg1PxDRL5o
-
-Federica Fragapane
-
-- https://www.youtube.com/watch?v=AloL4SuRdA4
-- https://www.youtube.com/watch?v=TpkH2ghm9NA
 
 Nigel Holmes 
 
