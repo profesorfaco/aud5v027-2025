@@ -12,7 +12,7 @@ RAWGraphs, como proyecto, nació en el [DensityDesign Lab](https://densitydesign
 
 Para familiarizarse con la herramienta y los módulos que ofrece, conviene revisar los videos vinculados en https://www.rawgraphs.io/learning#charts-and-templates
 
-Luego pasemos a probar la herramienta con datos en un CSV: https://app.rawgraphs.io/
+Luego pasemos a probar la herramienta pegando datos ya copiados de un CSV o un JSON: https://app.rawgraphs.io/
 
 _ _ _ _ 
 
