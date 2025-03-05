@@ -22,6 +22,9 @@ Pero `.svg` no es equivalente a un `.ai`. Puede comprobarlo haciendo lo que sigu
 
 4. Note cómo es que el documento de extensión `.svg` es legible, tal como lo es un `.xml`. El otro no.
 
+SVG es sigla de Scalable Vector Graphics. Como se pudo notar en el cuarto paso, se trata de un lenguaje de marcado XML para describir, marcando, gráficos vectoriales.
+
+Ver más en: https://developer.mozilla.org/es/docs/Web/SVG
 
 
 _ _ _ _ 
