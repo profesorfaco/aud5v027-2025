@@ -10,7 +10,7 @@ Si aprovechamos el *abstract* de tal artículo y la versión gratuita del traduc
 
 RAWGraphs, como proyecto, nació en el [DensityDesign Lab](https://densitydesign.org/) del Politécnico de Milán, y hoy por hoy es mantenido por el mismo Lab y [Calibro](https://calib.ro/).
 
-Para familiarizarse con la herramienta y los módulos que ofrece, conviene revisar los videos vinculados en https://www.rawgraphs.io/learning#charts-and-templates
+Para familiarizarse con la herramienta y los módulos que ofrece RAWGraphs, conviene revisar los videos vinculados en https://www.rawgraphs.io/learning#charts-and-templates
 
 Luego pasemos a probar la herramienta pegando datos ya copiados de un CSV o un JSON: https://app.rawgraphs.io/
 
